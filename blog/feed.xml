@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>スモウルビー：ブログ</title>
+  <subtitle>「Smalruby：ぼくたち、Rubyプログラミング少年団！」のブログです</subtitle>
+  <id>http://smalruby.jp/blog</id>
+  <link href="http://smalruby.jp/blog"/>
+  <link href="http://smalruby.jp/blog/blog/feed.xml" rel="self"/>
+  <updated>2014-05-17T15:00:00Z</updated>
+  <author>
+    <name>Smalruby</name>
+  </author>
+  <entry>
+    <title>５月１８日（日）に一日Rubyプログラミング体験 in 松江（八雲公民館）を開催しました♪</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2014/05/18/trial.html"/>
+    <id>http://smalruby.jp/blog/2014/05/18/trial.html</id>
+    <published>2014-05-17T15:00:00Z</published>
+    <updated>2014-05-25T23:56:58+09:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさんこんにちは、スモウルビーの高尾（たかお）です。&lt;/p&gt;
+
+&lt;p&gt;５月１８日（日）に小学校３年生から６年生のお友だちとその家族といっしょに一日Rubyプログラミング体験（たいけん）を松江（まつえ）の八雲公民館（やくもこうみんかん）でやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1250-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;子どもが8人、大人が5人の13人に参加（さんか）してもらって、にぎやかなものになりました。参加（さんか）してくれたみなさん、ありがとうございました！&lt;/p&gt;
+
+&lt;p&gt;この文章（ぶんしょう）では、そのときの様子（ようす）をみんなに説明（せつめい）しますね♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section"&gt;(1) はじめに&lt;/h2&gt;
+
+&lt;p&gt;「みなさんこんにちは、スモウルビーのこーじさんです♪」&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1155.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;今日使う「ラズベリーパイ」という&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;とっても小さくて、&lt;/li&gt;
+  &lt;li&gt;とっても安くて（３，０００円）&lt;/li&gt;
+  &lt;li&gt;でも少しだけ動きが遅（おそ）い&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;コンピュータを使うんだよ！&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1152.jpg" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-1"&gt;(2) ゲームであそぶ&lt;/h2&gt;
+
+&lt;p&gt;まずはSmalruby（スモウルビー）がどんなことができるのかためしてみよう！&lt;/p&gt;
+
+&lt;p&gt;さぁ、みんな、こーじさんの近（ちか)くに来て、よ～く見てね♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1236.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;車が追いかけっこをするゲームをロードして、実行するんだ！&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1179.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;よし、それじゃあ、みんなも自分のコンピュータを使ってゲームで遊んでみよう。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1167.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;ゲームで遊んだら、このゲームがどんなふうにして作られているか見てみよう。&lt;/p&gt;
+
+&lt;p&gt;次のようなブロックがあるね。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[キーボードの←が押され続けているとき]
+    &lt;ul&gt;
+      &lt;li&gt;[反時計回りに15度回す]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[キーボードの→が押され続けているとき]
+    &lt;ul&gt;
+      &lt;li&gt;[時計回りに15度回す]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;だからキーボードの「←」や「→」を押したときに車が動いたんだね♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1168.jpg" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-2"&gt;(3) はじめてのプログラミング&lt;/h2&gt;
+
+&lt;p&gt;それでは、みんなもゲームを作ってみよう。&lt;/p&gt;
+
+&lt;p&gt;好きなキャラクターを選んで…&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1222-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;キャラクターのブロックを置（お）いて…&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1195.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;次のブロックを置（お）いたら…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[ずっと～繰り返す]
+    &lt;ul&gt;
+      &lt;li&gt;[10歩動かす]&lt;/li&gt;
+      &lt;li&gt;[もし端に着いたら、跳ね返る]&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;よし、実行（じっこう）してみよう！&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1202.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;他にもいろいろなブロックがあるから使ってみてね♪&lt;/p&gt;
+
+&lt;p&gt;これだけの説明（せつめい）で、子どもたちはいろいろなブロックをつかってプログラムを作り始めます。音を鳴（な）らすやり方を説明（せつめい）していないのに、ピアノのドの音が鳴（な）ったりして、こーじさんはおどろいたよ♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-3"&gt;(4) ゲームを作る&lt;/h2&gt;
+
+&lt;p&gt;Smalruby（スモウルビー）の使（つか）い方は説明（せつめい）したので、ゲームを作ってみましょう。
+今日はマウスを使って、追いかけてくるキャラクターから逃（に）げるゲームを作ります。&lt;/p&gt;
+
+&lt;p&gt;はじめに、こーじさんがゲームを作るからよく見てね！&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1233.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;それじゃあ、みんなも作ってみよう♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1288.jpg" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-4"&gt;(5) 作ったゲームで遊ぶ&lt;/h2&gt;
+
+&lt;p&gt;あっという間におわりの時間になったね。&lt;/p&gt;
+
+&lt;p&gt;作ったゲームを説明（せつめい）してね♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1216.jpg" /&gt;
+&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1243-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;捕（つか）まっても、少したらまた逃（げ）げ出すことができる&lt;/li&gt;
+  &lt;li&gt;キャラクターがたくさんいて、それぞれ違（ちが）う台詞（せりふ）をしゃべってる&lt;/li&gt;
+  &lt;li&gt;追いかけてるくキャラクター：忍者（にんじゃ）が出たり、消えたりする&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;いろんなゲームを作って見れたみんなに拍手（はくしゅ）～、パチパチパチ♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-5"&gt;(6) おわりに&lt;/h2&gt;
+
+&lt;p&gt;最後（さいご）は、みんなの名札をラミネートしてピッカピカのカードにします♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1211.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;みんな、今日は楽しんでくれたかな？プログラミングを楽しんでもらえたら、こーじさんはとってもうれしいです！&lt;/p&gt;
+
+&lt;p&gt;今日は参加（さんか）してくれてありがとう♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-6"&gt;どうでしたか？&lt;/h2&gt;
+
+&lt;p&gt;最後（さいご）まで文章（ぶんしょう）を読んでくれてありがとう！一日プログラミング体験（たいけん）の様子（ようす）がわかったかな♪&lt;/p&gt;
+
+&lt;p&gt;どうだった？おもしろそう？？？&lt;/p&gt;
+
+&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング体験（たいけん）に参加（さんか）してみませんか？毎月第３日曜日（しまね家庭の日）に行っています。お父さんやお母さんに相談（そうだん）して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
+
+&lt;p&gt;きみといっしょに会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-7"&gt;謝辞（しゃじ）&lt;/h2&gt;
+
+&lt;p&gt;Smalruby（スモウルビー）の一日Rubyプログラミング体験（たいけん） in 松江（まつえ）で使っているコンピュータ：ラズベリーパイは、PEG（ペグ）という団体（だんたい）からプレゼントしてもらいました。&lt;/p&gt;
+
+&lt;p&gt;キーボードを使うことが難（むず）しかったり、英（えい）語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：Smalruby（スモウルビー）は、Ruby（ルビー）アソシエーションに助（たす）けてもらって作りました。&lt;/p&gt;
+
+&lt;p&gt;会場（かいじょう）は松江市の八雲公民館（やくもこうみんかん）に提供（ていきょう）していただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1145.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;PEG（ペグ）、Ruby（ルビー）アソシエーション、松江市の八雲公民館（やくもこうみんかん）、ありがとうございました m(_ _)m&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://pegpeg.jp/"&gt;PEG（ペグ）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Ruby（ルビー）アソシエーション&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+</feed>
