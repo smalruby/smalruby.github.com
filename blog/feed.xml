@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/05/18/trial.html"/>
     <id>http://smalruby.jp/blog/2014/05/18/trial.html</id>
     <published>2014-05-17T15:00:00Z</published>
-    <updated>2014-05-26T00:03:28+09:00</updated>
+    <updated>2014-05-26T13:45:34+09:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -24,7 +24,7 @@
 
 &lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1250-2.jpg" /&gt;&lt;/p&gt;
 
-&lt;p&gt;子どもが8人、大人が5人の13人に参加（さんか）してもらって、にぎやかなものになりました。参加（さんか）してくれたみなさん、ありがとうございました！&lt;/p&gt;
+&lt;p&gt;子どもが8人、大人が5人の合計（ごうけい）13人が参加（さんか）してくれて、にぎやかなものになりました。参加（さんか）してくれたみなさん、ありがとうございました！&lt;/p&gt;
 
 &lt;p&gt;この文章（ぶんしょう）では、そのときの様子（ようす）をみんなに説明（せつめい）しますね♪&lt;/p&gt;
 
@@ -68,23 +68,6 @@
 
 &lt;p&gt;ゲームで遊んだら、このゲームがどんなふうにして作られているか見てみよう。&lt;/p&gt;
 
-&lt;p&gt;次のようなブロックがあるね。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[キーボードの←が押され続けているとき]
-    &lt;ul&gt;
-      &lt;li&gt;[反時計回りに15度回す]&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;[キーボードの→が押され続けているとき]
-    &lt;ul&gt;
-      &lt;li&gt;[時計回りに15度回す]&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;だからキーボードの「←」や「→」を押したときに車が動いたんだね♪&lt;/p&gt;
-
 &lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1168.jpg" /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -97,22 +80,11 @@
 
 &lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1222-2.jpg" /&gt;&lt;/p&gt;
 
-&lt;p&gt;キャラクターのブロックを置（お）いて…&lt;/p&gt;
+&lt;p&gt;キャラクターやいろいろな命令ブロックを置（お）いて…&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1195.jpg" /&gt;&lt;/p&gt;
 
-&lt;p&gt;次のブロックを置（お）いたら…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[ずっと～繰り返す]
-    &lt;ul&gt;
-      &lt;li&gt;[10歩動かす]&lt;/li&gt;
-      &lt;li&gt;[もし端に着いたら、跳ね返る]&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;よし、実行（じっこう）してみよう！&lt;/p&gt;
+&lt;p&gt;実行（じっこう）してみよう！&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1202.jpg" /&gt;&lt;/p&gt;
 
@@ -139,7 +111,7 @@
 
 &lt;h2 id="section-4"&gt;(5) 作ったゲームで遊ぶ&lt;/h2&gt;
 
-&lt;p&gt;あっという間におわりの時間になったね。&lt;/p&gt;
+&lt;p&gt;あっという間に、おわりの時間になったね。&lt;/p&gt;
 
 &lt;p&gt;作ったゲームを説明（せつめい）してね♪&lt;/p&gt;
 
@@ -152,7 +124,7 @@
   &lt;li&gt;追いかけてるくキャラクター：忍者（にんじゃ）が出たり、消えたりする&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;いろんなゲームを作って見れたみんなに拍手（はくしゅ）～、パチパチパチ♪&lt;/p&gt;
+&lt;p&gt;いろんなゲームを作ってくれたみんなに拍手（はくしゅ）～、パチパチパチ♪&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -172,11 +144,11 @@
 
 &lt;p&gt;最後（さいご）まで文章（ぶんしょう）を読んでくれてありがとう！一日プログラミング体験（たいけん）の様子（ようす）がわかったかな♪&lt;/p&gt;
 
-&lt;p&gt;どうだった？おもしろそう？？？&lt;/p&gt;
+&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
 
 &lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング体験（たいけん）に参加（さんか）してみませんか？毎月第３日曜日（しまね家庭の日）に行っています。お父さんやお母さんに相談（そうだん）して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
 
-&lt;p&gt;きみといっしょに会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
+&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -195,6 +167,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="http://pegpeg.jp/"&gt;PEG（ペグ）&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Ruby（ルビー）アソシエーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://matsue-city-kouminkan.jp/yakumo/"&gt;八雲公民館（やくもこうみんかん）&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
