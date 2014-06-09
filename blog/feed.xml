@@ -5,10 +5,120 @@
   <id>http://smalruby.jp/blog</id>
   <link href="http://smalruby.jp/blog"/>
   <link href="http://smalruby.jp/blog/blog/feed.xml" rel="self"/>
-  <updated>2014-05-17T15:00:00Z</updated>
+  <updated>2014-06-08T15:00:00Z</updated>
   <author>
     <name>Smalruby</name>
   </author>
+  <entry>
+    <title>スモウルビーに新しい機能が追加されました♪</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2014/06/09/release.html"/>
+    <id>http://smalruby.jp/blog/2014/06/09/release.html</id>
+    <published>2014-06-08T15:00:00Z</published>
+    <updated>2014-06-09T10:48:01+09:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさん、こんにちは！
+「Smalruby：スモウルビー」あらため、「Rubyプログラミング少年団」の高尾です。&lt;/p&gt;
+
+&lt;p&gt;Rubyプログラミング少年団で使っている教材「Smalruby：スモウルビー」に新しい機能が追加されました。(smalruby-editor 0.1.16、smalruby 0.0.25をリリースしました！)&lt;/p&gt;
+
+&lt;p&gt;今回はその機能を説明しますね♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section"&gt;「ハードウェア」ジャンルのブロックが増えました！&lt;/h2&gt;
+
+&lt;h3 id="section-1"&gt;(1)&lt;/h3&gt;
+
+&lt;p&gt;「ハードウェア」ジャンルに、「2WD車を（　）秒[▼進める/バックさせる/左に曲げる/右に曲げる/止める]ブロックを追加しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-09-release/hardware_2wd_run.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;これで、これまで以上に2WD車を使ったプログラムが作りやすくなったと思うよ♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-2"&gt;キャラクターを選ぶ画面の機能を増やしました！&lt;/h2&gt;
+
+&lt;h3 id="section-3"&gt;(2)&lt;/h3&gt;
+
+&lt;p&gt;キャラクターの向きのところに、キャラクターの回転方法を選べるようにしました。&lt;/p&gt;
+
+&lt;p&gt;キャラクターの回転方法が、&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;「自由に回転」のときは、端（はし）にあたって跳（は）ね返った時などに上下が逆さまになったり、向きを変えるとキャラクターもその向きに合うようになります。&lt;/li&gt;
+  &lt;li&gt;「左右のみ」のときは、端（はし）にあたって跳（は）ね返った時などにふり向いたり、向きを変えてもキャラクターは右か、左しか向かないようになります。&lt;/li&gt;
+  &lt;li&gt;「回転しない」のときは、端にあたって跳ね返った時も、向きを変えたときも、キャラクターは右しか向かないようになります。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-09-release/rotation_style_free.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-09-release/rotation_style_left_right.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-09-release/rotation_style_none.png" /&gt;&lt;/p&gt;
+
+&lt;h3 id="section-4"&gt;(3)&lt;/h3&gt;
+
+&lt;p&gt;選んだキャラクターを表示するところの背景の色を白くしました。これで、黒猫もはっきりとと見えるね♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-09-release/preview_background.png" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-5"&gt;使いにくい部分を直しました！&lt;/h2&gt;
+
+&lt;h3 id="section-6"&gt;(4)&lt;/h3&gt;
+
+&lt;p&gt;これまでは、マウスを使っているときに画面の一部が青くなってしまうことがありましたので、そうならないようにしました。（青くなる現象は文字のところを選択できるから起きていました。そこで文字を選択できないようにしたんだよ♪）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-09-release/before_unselectable.png" /&gt;&lt;/p&gt;
+
+&lt;h3 id="section-7"&gt;(5)&lt;/h3&gt;
+
+&lt;p&gt;「アクチュエータ」ジャンルと「センサー」ジャンルを整理しました。合わせて、いまはあまり使われていない「RGB LED」サブジャンルを消しました。&lt;/p&gt;
+
+&lt;p&gt;整理する前：
+&lt;img alt="" src="/files/blog/2014-06-09-release/before_hardware.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;整理した後：
+&lt;img alt="" src="/files/blog/2014-06-09-release/after_hardware.png" /&gt;&lt;/p&gt;
+
+&lt;h3 id="section-8"&gt;(6)&lt;/h3&gt;
+
+&lt;p&gt;これまでは、キャラクターが隠しているのに、吹き出しが表示されていたり、他のキャラクターに触れてしまっていました。そこで、キャラクターを隠したときは、吹き出しを消して、他のキャラクターにも触れないようにしました。&lt;/p&gt;
+
+&lt;h3 id="section-9"&gt;(7)&lt;/h3&gt;
+
+&lt;p&gt;スモウルビーを始めようと思ったときに、いつまで待っても始まらないことがありました。これは、少し前にスモウルビーを使ったときにあるファイル（&lt;code&gt;${HOME}/.smalruby-editor/tmp/pids/server.pid&lt;/code&gt;）を消していなかったり、前に使ったときとは別のコンピュータを使っていること(&lt;code&gt;${HOME}/.smalruby-editor/config/database.yml&lt;/code&gt;のパスが不正)が原因でした。&lt;/p&gt;
+
+&lt;p&gt;そこで、スモウルビーを始めるときに、すでにスモウルビーが始まっていないかどうかをチェックしたり、問題のあるファイルを消したり新しく作るようにしました。&lt;/p&gt;
+
+&lt;p&gt;これで、スモウルビーをきちんと始められるようになったと思うよ♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-10"&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;新しいスモウルビーは、コマンドプロンプトやターミナルで、次のコマンドを実行するとインストールできるよ。ぜひ試してみてね。&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-11"&gt;参考（さんこう）情報&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby-editor/"&gt;GitHub : smalruby-editorのソースコード(設計書)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby/"&gt;GitHub : smalrubyのソースコード(設計書)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby-editor"&gt;RubyGems.org : smalruby-editor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby"&gt;RubyGems.org : smalruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>５月１８日（日）に一日Rubyプログラミング体験 in 松江（八雲公民館）を開催しました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2014/05/18/trial.html"/>
