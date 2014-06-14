@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/06/09/release.html"/>
     <id>http://smalruby.jp/blog/2014/06/09/release.html</id>
     <published>2014-06-08T15:00:00Z</published>
-    <updated>2014-06-12T14:55:59+00:00</updated>
+    <updated>2014-06-14T20:07:14+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -124,7 +124,7 @@ gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
     <link rel="alternate" href="http://smalruby.jp/blog/2014/05/18/trial.html"/>
     <id>http://smalruby.jp/blog/2014/05/18/trial.html</id>
     <published>2014-05-17T15:00:00Z</published>
-    <updated>2014-06-12T14:55:59+00:00</updated>
+    <updated>2014-06-14T20:07:14+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>

@@ -1,20 +1,52 @@
-body {
-    background-image: url(/img/hacchi_bg.png);
-    background-repeat: no-repeat;
-    background-position: top right;
-
-    font-size: 20px;
+.main.style1 h2 {
+    font-size: 3.25em;
 }
 
-nav span.logo {
+table.default {
+    border: 1px solid black;
+    text-align: left;
+}
+
+table.default th {
+    width: 9em;
+}
+
+p small {
+    font-size: 0.7em;
+    line-height: 0.7em;
+    color: gray;
+}
+
+.left {
+    text-align: left;
+}
+
+section.blog {
+}
+
+section.blog h2 {
     font-size: 1.5em;
+    margin-bottom: 0.5em;
 }
 
-footer {
-    padding-top: 40px;
-    padding-bottom: 40px;
-    margin-top: 100px;
-    border-top: 1px solid #e5e5e5;
-    color: #777;
-    font-size: 14px;
+section.blog h2 span {
+    color: gray;
+    font-size: 0.8em;
+}
+
+section.blog ul {
+    list-style: disc;
+    padding-left: 1em;
+}
+
+section.blog ul li {
+    padding-left: 0.5em;
+}
+
+section.blog-menu h4 {
+    margin-bottom: 0.5em;
+}
+
+section.blog hr {
+    margin-bottom: 2em;
 }
