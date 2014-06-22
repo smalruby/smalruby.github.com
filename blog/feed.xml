@@ -5,16 +5,108 @@
   <id>http://smalruby.jp/blog</id>
   <link href="http://smalruby.jp/blog"/>
   <link href="http://smalruby.jp/blog/blog/feed.xml" rel="self"/>
-  <updated>2014-06-08T15:00:00Z</updated>
+  <updated>2014-06-14T15:00:00Z</updated>
   <author>
     <name>Smalruby</name>
   </author>
+  <entry>
+    <title>６月１５日（日）に一日Rubyプログラミング体験 in 松江（竹矢公民館）を開催しました♪</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2014/06/15/trial.html"/>
+    <id>http://smalruby.jp/blog/2014/06/15/trial.html</id>
+    <published>2014-06-14T15:00:00Z</published>
+    <updated>2014-06-22T07:49:09+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさんこんにちは、Ruby（ルビー）プログラミング少年団（しょうねんだん）の高尾（たかお）です。&lt;/p&gt;
+
+&lt;p&gt;６月１５日（日）に２回目となる一日Rubyプログラミング体験（たいけん）を松江（まつえ）の竹矢公民館（ちくやこうみんかん）でやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_062343481_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;子どもが９人、大人が８人、赤ちゃんが１人の合計（ごうけい）１８人が参加（さんか）してくれました。今回（こんかい）もにぎやかなものになりましたね。参加（さんか）してくれたみなさん、ありがとうございました！&lt;/p&gt;
+
+&lt;p&gt;当日（とうじつ）は次のような様子（ようす）でした。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_050722078_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;はじまりました。今回はコンピュータをつなげるところからやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_051927717_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_055318241_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;マウスを使って簡単（かんたん）のプログラムを作りました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_060620367_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;好きなキャラクターを選（えら）んで、好きなように動かします。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_062103034_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;スモウルビーの使い方が分かったら、みんなでゲームを作ります。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_062224967_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;先生の相談（そうだん）したり、&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_062242087_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;家族で話しながら進めます。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_062622606_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;保護者のみなさんには、少しRubyについて説明します。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/20140615_064303506_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;最後は、みんなに今日の感想（かんそう）を発表（はっぴょう）してもらいました。みんな、ゲームが完成（かんせい）したし、楽（たの）しかったみたいだよ。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-06-15-trial/CAM00348.jpg" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;この体験（たいけん）イベントは、毎回（まいかい）と同（おな）じものですので、（くわ）しい内容（ないよう）は &lt;a href="/blog/2014/05/18/trial.html"&gt;前回（ぜんかい）のレポート　＜クリックすると確認（かくにん）できます＞&lt;/a&gt; をみてくださいね♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section"&gt;みんなも体験（たいけん）してみませんか？&lt;/h2&gt;
+
+&lt;p&gt;最後（さいご）まで文章（ぶんしょう）を読んでくれてありがとう！一日プログラミング体験（たいけん）の様子（ようす）がわかったかな♪&lt;/p&gt;
+
+&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
+
+&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング体験（たいけん）に参加（さんか）してみませんか？毎月第３日曜日（しまね家庭の日）に行っています。お父さんやお母さんに相談（そうだん）して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
+
+&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section-1"&gt;謝辞（しゃじ）&lt;/h2&gt;
+
+&lt;p&gt;Smalruby（スモウルビー）の一日Rubyプログラミング体験（たいけん） in 松江（まつえ）で使っているコンピュータ：ラズベリーパイは、PEG（ペグ）という団体（だんたい）からプレゼントしてもらいました。&lt;/p&gt;
+
+&lt;p&gt;キーボードを使うことが難（むず）しかったり、英（えい）語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：Smalruby（スモウルビー）は、Ruby（ルビー）アソシエーションに助（たす）けてもらって作りました。&lt;/p&gt;
+
+&lt;p&gt;会場（かいじょう）は松江市の竹矢公民館（ちくやこうみんかん）に提供（ていきょう）していただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1145.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;PEG（ペグ）、Ruby（ルビー）アソシエーション、松江市の竹矢公民館（ちくやこうみんかん）、ありがとうございました m(_ _)m&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://pegpeg.jp/"&gt;PEG（ペグ）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Ruby（ルビー）アソシエーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://matsue-city-kouminkan.jp/tikuya/"&gt;竹矢公民館（ちくやこうみんかん）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>スモウルビーに新しい機能が追加されました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2014/06/09/release.html"/>
     <id>http://smalruby.jp/blog/2014/06/09/release.html</id>
     <published>2014-06-08T15:00:00Z</published>
-    <updated>2014-06-20T02:10:09+00:00</updated>
+    <updated>2014-06-22T07:49:09+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -124,7 +216,7 @@ gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
     <link rel="alternate" href="http://smalruby.jp/blog/2014/05/18/trial.html"/>
     <id>http://smalruby.jp/blog/2014/05/18/trial.html</id>
     <published>2014-05-17T15:00:00Z</published>
-    <updated>2014-06-20T02:10:09+00:00</updated>
+    <updated>2014-06-22T07:49:09+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
