@@ -14,13 +14,15 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/08/17/trial.html"/>
     <id>http://smalruby.jp/blog/2014/08/17/trial.html</id>
     <published>2014-08-16T15:00:00Z</published>
-    <updated>2014-08-18T05:10:39+00:00</updated>
+    <updated>2014-08-18T05:12:43+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
     <content type="html">&lt;p&gt;みなさんこんにちは、&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;プログラミング&lt;ruby&gt;少年団&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しょうねんだん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;高尾&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たかお&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;です。&lt;/p&gt;
 
 &lt;p&gt;８月１７日（日）に４回目となる一日Rubyプログラミング&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;in&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;イン&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; を &lt;ruby&gt;朝日公民館&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あさひこうみんかん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;でやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-08-17-trial/IMG_1636.JPG" /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;ruby&gt;今回&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;こんかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は子どもが６人、大人が６人の&lt;ruby&gt;合計&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ごうけい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;１２人が&lt;ruby&gt;参加&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;してくれました。&lt;ruby&gt;参加&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;してくれたみなさん、ありがとうございました！&lt;/p&gt;
 
@@ -120,7 +122,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/07/20/trial.html"/>
     <id>http://smalruby.jp/blog/2014/07/20/trial.html</id>
     <published>2014-07-19T15:00:00Z</published>
-    <updated>2014-08-18T05:10:39+00:00</updated>
+    <updated>2014-08-18T05:12:43+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -214,7 +216,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/06/15/trial.html"/>
     <id>http://smalruby.jp/blog/2014/06/15/trial.html</id>
     <published>2014-06-14T15:00:00Z</published>
-    <updated>2014-08-18T05:10:39+00:00</updated>
+    <updated>2014-08-18T05:12:43+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -306,7 +308,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/06/09/release.html"/>
     <id>http://smalruby.jp/blog/2014/06/09/release.html</id>
     <published>2014-06-08T15:00:00Z</published>
-    <updated>2014-08-18T05:10:39+00:00</updated>
+    <updated>2014-08-18T05:12:43+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -416,7 +418,7 @@ gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
     <link rel="alternate" href="http://smalruby.jp/blog/2014/05/18/trial.html"/>
     <id>http://smalruby.jp/blog/2014/05/18/trial.html</id>
     <published>2014-05-17T15:00:00Z</published>
-    <updated>2014-08-18T05:10:39+00:00</updated>
+    <updated>2014-08-18T05:12:43+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
