@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/08/17/trial.html"/>
     <id>http://smalruby.jp/blog/2014/08/17/trial.html</id>
     <published>2014-08-16T15:00:00Z</published>
-    <updated>2014-09-30T04:46:52+00:00</updated>
+    <updated>2014-09-30T05:09:46+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -122,7 +122,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/07/20/trial.html"/>
     <id>http://smalruby.jp/blog/2014/07/20/trial.html</id>
     <published>2014-07-19T15:00:00Z</published>
-    <updated>2014-09-30T04:46:52+00:00</updated>
+    <updated>2014-09-30T05:09:46+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -216,7 +216,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/06/15/trial.html"/>
     <id>http://smalruby.jp/blog/2014/06/15/trial.html</id>
     <published>2014-06-14T15:00:00Z</published>
-    <updated>2014-09-30T04:46:52+00:00</updated>
+    <updated>2014-09-30T05:09:46+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -308,7 +308,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/06/09/release.html"/>
     <id>http://smalruby.jp/blog/2014/06/09/release.html</id>
     <published>2014-06-08T15:00:00Z</published>
-    <updated>2014-09-30T04:46:52+00:00</updated>
+    <updated>2014-09-30T05:09:46+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -418,7 +418,7 @@ gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
     <link rel="alternate" href="http://smalruby.jp/blog/2014/05/18/trial.html"/>
     <id>http://smalruby.jp/blog/2014/05/18/trial.html</id>
     <published>2014-05-17T15:00:00Z</published>
-    <updated>2014-09-30T04:46:52+00:00</updated>
+    <updated>2014-09-30T05:09:46+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -576,78 +576,23 @@ gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
 </content>
   </entry>
   <entry>
-    <title>スモウルボットを作る（組み立て編）</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2014/01/03/smalrubot_assembly.html"/>
-    <id>http://smalruby.jp/blog/2014/01/03/smalrubot_assembly.html</id>
-    <published>2014-01-02T15:00:00Z</published>
-    <updated>2014-09-30T04:46:52+00:00</updated>
+    <title>スモウルボットを作る（概要）</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2013/12/31/smalrubot_summary.html"/>
+    <id>http://smalruby.jp/blog/2013/12/31/smalrubot_summary.html</id>
+    <published>2013-12-30T15:00:00Z</published>
+    <updated>2014-09-30T05:09:46+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
-    <content type="html">&lt;p&gt;パーツが用意できたら、さっそくスモウルボット(Smalrubot)を組み立てましょう！&lt;/p&gt;
+    <content type="html">&lt;p&gt;スモウルビーからコントロールできるロボット：スモウルボット(Smalrubot)を作ります。&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_020329662_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_020440163_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_020458379_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_020538895_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_020612233_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_020637846_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_020701657_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_020805390_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021049798_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021116069_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021144335_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021329995_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021401838_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021436296_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021505572_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021551175_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021621864_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021646332_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021715781_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021748617_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021812828_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_021833835_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022107089_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022127879_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022135783_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022349306_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022419581_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022449271_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022510697_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022626403_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022705680_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022719665_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022755269_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022848578_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022945807_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_022950757_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_023002839_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_023137750_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_023223265_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_023619265_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_024955496_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_025002371_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030336374_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030413120_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030509786_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030519746_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030522686_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030554612_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030620656_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030630063_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030706580_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030734507_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030751976_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030832910_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030901977_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030917415_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030921725_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030924227_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030930464_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030932810_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030941042_iOS.jpg" /&gt;
-&lt;img alt="" src="/files/blog/smalrubot_assembly/20140923_030949909_iOS.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/smalrubot_summary/20140923_010623363_iOS.jpg" /&gt;
+&lt;img alt="" src="/files/blog/smalrubot_summary/20140923_010628931_iOS.jpg" /&gt;
+&lt;img alt="" src="/files/blog/smalrubot_summary/20140923_010640643_iOS.jpg" /&gt;
+&lt;img alt="" src="/files/blog/smalrubot_summary/20140923_010646876_iOS.jpg" /&gt;
+&lt;img alt="" src="/files/blog/smalrubot_summary/20140923_010655968_iOS.jpg" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
