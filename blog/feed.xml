@@ -5,16 +5,94 @@
   <id>http://smalruby.jp/blog</id>
   <link href="http://smalruby.jp/blog"/>
   <link href="http://smalruby.jp/blog/blog/feed.xml" rel="self"/>
-  <updated>2014-09-20T15:00:00Z</updated>
+  <updated>2014-10-18T15:00:00Z</updated>
   <author>
     <name>Smalruby</name>
   </author>
+  <entry>
+    <title>１０月１９日（日）に一日Rubyプログラミング体験 in 松江（城東公民館）を開催しました♪</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2014/10/19/trial.html"/>
+    <id>http://smalruby.jp/blog/2014/10/19/trial.html</id>
+    <published>2014-10-18T15:00:00Z</published>
+    <updated>2014-10-26T15:25:22+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさんこんにちは、&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;プログラミング&lt;ruby&gt;少年団&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しょうねんだん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;高尾&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たかお&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;です。&lt;/p&gt;
+
+&lt;p&gt;１０月１９日（日）に６回目となる一日Rubyプログラミング&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;in&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;イン&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; を &lt;ruby&gt;城東公民館&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;じょうとうこうみんかん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;でやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://smalruby.doorkeeper.jp/events/14424"&gt;http://smalruby.doorkeeper.jp/events/14424&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_062753595_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;今回&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;こんかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は子どもが１１人、大人が９人の&lt;ruby&gt;合計&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ごうけい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;１９人が&lt;ruby&gt;参加&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;してくれました。&lt;ruby&gt;定員&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ていいん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;が１０人だったのでいつもよりたくさんのきてくれました。ありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;当日&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;とうじつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;のようすを&lt;ruby&gt;写真&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しゃしん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;でおつたえします。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_062753595_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_062818198_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_063135111_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_063148198_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_063336882_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_063429110_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_063447515_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_063721696_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141019_064658492_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;この&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;イベントは、&lt;ruby&gt;毎回&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まいかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;同&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;じものです。&lt;ruby&gt;詳&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;くわ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;しい&lt;ruby&gt;内容&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ないよう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は &lt;a href="/blog/2014/05/18/trial.html"&gt;５月１８日のレポート＜クリックすると&lt;ruby&gt;確認&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かくにん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;できます＞&lt;/a&gt; をみてくださいね♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;みんなも&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; してみませんか？&lt;/h2&gt;
+
+&lt;p&gt;&lt;ruby&gt;最後&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さいご&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;まで&lt;ruby&gt;文章&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ぶんしょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;を&lt;ruby&gt;読&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;んでくれてありがとう！一日プログラミング&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;様子&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ようす&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;がわかったかな♪&lt;/p&gt;
+
+&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
+
+&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;参加&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;してみませんか？毎月第３日曜日（しまね&lt;ruby&gt;家庭&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かてい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の日）に行っています。お父さんやお母さんに&lt;ruby&gt;相談&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;そうだん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から&lt;ruby&gt;申&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;もう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;し&lt;ruby&gt;込&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;こ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;んでみよう！&lt;/p&gt;
+
+&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;&lt;ruby&gt;謝辞&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しゃじ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/h2&gt;
+
+&lt;p&gt;一日Rubyプログラミング&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;in&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;イン&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; で使っているコンピュータ：ラズベリーパイは、&lt;ruby&gt;PEG&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ペグ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;という&lt;ruby&gt;団体&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;だんたい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;からプレゼントしてもらいました。&lt;/p&gt;
+
+&lt;p&gt;キーボードを使うことが&lt;ruby&gt;難&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;むず&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;しかったり、&lt;ruby&gt;英語&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;えいご&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;アソシエーションに&lt;ruby&gt;助&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たす&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;けてもらって作りました。&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;会場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かいじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は&lt;ruby&gt;島根県松江市&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しまねけんまつえし&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; の &lt;ruby&gt;城東公民館&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;じょうとうこうみんかん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; に &lt;ruby&gt;提供&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ていきょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;していただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-10-19-trial/20141017_041018318_iOS.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;PEG&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ペグ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;、&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;アソシエーション、&lt;ruby&gt;八雲公民館&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;やくもこうみんかん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;、ありがとうございました m(_ _)m&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://pegpeg.jp/"&gt;PEG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://matsue-city-kouminkan.jp/jyoto/"&gt;城東公民館&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>９月２１日（日）に一日Rubyプログラミング体験 in 松江（八雲公民館）を開催しました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2014/09/21/trial.html"/>
     <id>http://smalruby.jp/blog/2014/09/21/trial.html</id>
     <published>2014-09-20T15:00:00Z</published>
-    <updated>2014-10-13T13:53:32+00:00</updated>
+    <updated>2014-10-26T15:25:22+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -81,7 +159,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/08/17/trial.html"/>
     <id>http://smalruby.jp/blog/2014/08/17/trial.html</id>
     <published>2014-08-16T15:00:00Z</published>
-    <updated>2014-10-13T13:53:32+00:00</updated>
+    <updated>2014-10-26T15:25:22+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -189,7 +267,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/07/20/trial.html"/>
     <id>http://smalruby.jp/blog/2014/07/20/trial.html</id>
     <published>2014-07-19T15:00:00Z</published>
-    <updated>2014-10-13T13:53:32+00:00</updated>
+    <updated>2014-10-26T15:25:22+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -283,7 +361,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/06/15/trial.html"/>
     <id>http://smalruby.jp/blog/2014/06/15/trial.html</id>
     <published>2014-06-14T15:00:00Z</published>
-    <updated>2014-10-13T13:53:32+00:00</updated>
+    <updated>2014-10-26T15:25:22+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -375,7 +453,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/06/09/release.html"/>
     <id>http://smalruby.jp/blog/2014/06/09/release.html</id>
     <published>2014-06-08T15:00:00Z</published>
-    <updated>2014-10-13T13:53:32+00:00</updated>
+    <updated>2014-10-26T15:25:22+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -477,168 +555,6 @@ gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
   &lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby/"&gt;GitHub : smalrubyのソースコード(設計書)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby-editor"&gt;RubyGems.org : smalruby-editor&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby"&gt;RubyGems.org : smalruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>５月１８日（日）に一日Rubyプログラミング体験 in 松江（八雲公民館）を開催しました♪</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2014/05/18/trial.html"/>
-    <id>http://smalruby.jp/blog/2014/05/18/trial.html</id>
-    <published>2014-05-17T15:00:00Z</published>
-    <updated>2014-10-13T13:53:32+00:00</updated>
-    <author>
-      <name>Smalruby</name>
-    </author>
-    <content type="html">&lt;p&gt;みなさんこんにちは、スモウルビーの高尾（たかお）です。&lt;/p&gt;
-
-&lt;p&gt;５月１８日（日）に小学校３年生から６年生のお友だちとその家族といっしょに一日Rubyプログラミング体験（たいけん）を松江（まつえ）の八雲公民館（やくもこうみんかん）でやりました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1250-2.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;子どもが8人、大人が5人の合計（ごうけい）13人が参加（さんか）してくれて、にぎやかなものになりました。参加（さんか）してくれたみなさん、ありがとうございました！&lt;/p&gt;
-
-&lt;p&gt;この文章（ぶんしょう）では、そのときの様子（ようす）をみんなに説明（せつめい）しますね♪&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section"&gt;(1) はじめに&lt;/h2&gt;
-
-&lt;p&gt;「みなさんこんにちは、スモウルビーのこーじさんです♪」&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1155.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;今日使う「ラズベリーパイ」という&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;とっても小さくて、&lt;/li&gt;
-  &lt;li&gt;とっても安くて（３，０００円）&lt;/li&gt;
-  &lt;li&gt;でも少しだけ動きが遅（おそ）い&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;コンピュータを使うんだよ！&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1152.jpg" /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section-1"&gt;(2) ゲームであそぶ&lt;/h2&gt;
-
-&lt;p&gt;まずはSmalruby（スモウルビー）がどんなことができるのかためしてみよう！&lt;/p&gt;
-
-&lt;p&gt;さぁ、みんな、こーじさんの近（ちか)くに来て、よ～く見てね♪&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1236.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;車が追いかけっこをするゲームをロードして、実行するんだ！&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1179.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;よし、それじゃあ、みんなも自分のコンピュータを使ってゲームで遊んでみよう。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1167.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;ゲームで遊んだら、このゲームがどんなふうにして作られているか見てみよう。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1168.jpg" /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section-2"&gt;(3) はじめてのプログラミング&lt;/h2&gt;
-
-&lt;p&gt;それでは、みんなもゲームを作ってみよう。&lt;/p&gt;
-
-&lt;p&gt;好きなキャラクターを選んで…&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1222-2.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;キャラクターやいろいろな命令ブロックを置（お）いて…&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1195.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;実行（じっこう）してみよう！&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1202.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;他にもいろいろなブロックがあるから使ってみてね♪&lt;/p&gt;
-
-&lt;p&gt;これだけの説明（せつめい）で、子どもたちはいろいろなブロックをつかってプログラムを作り始めます。音を鳴（な）らすやり方を説明（せつめい）していないのに、ピアノのドの音が鳴（な）ったりして、こーじさんはおどろいたよ♪&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section-3"&gt;(4) ゲームを作る&lt;/h2&gt;
-
-&lt;p&gt;Smalruby（スモウルビー）の使（つか）い方は説明（せつめい）したので、ゲームを作ってみましょう。
-今日はマウスを使って、追いかけてくるキャラクターから逃（に）げるゲームを作ります。&lt;/p&gt;
-
-&lt;p&gt;はじめに、こーじさんがゲームを作るからよく見てね！&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1233.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;それじゃあ、みんなも作ってみよう♪&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1228.jpg" /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section-4"&gt;(5) 作ったゲームで遊ぶ&lt;/h2&gt;
-
-&lt;p&gt;あっという間に、おわりの時間になったね。&lt;/p&gt;
-
-&lt;p&gt;作ったゲームを説明（せつめい）してね♪&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1216.jpg" /&gt;
-&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1243-2.jpg" /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;捕（つか）まっても、少したらまた逃（げ）げ出すことができる&lt;/li&gt;
-  &lt;li&gt;キャラクターがたくさんいて、それぞれ違（ちが）う台詞（せりふ）をしゃべってる&lt;/li&gt;
-  &lt;li&gt;追いかけてるくキャラクター：忍者（にんじゃ）が出たり、消えたりする&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;いろんなゲームを作ってくれたみんなに拍手（はくしゅ）～、パチパチパチ♪&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section-5"&gt;(6) おわりに&lt;/h2&gt;
-
-&lt;p&gt;最後（さいご）は、みんなの名札をラミネートしてピッカピカのカードにします♪&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1211.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;みんな、今日は楽しんでくれたかな？プログラミングを楽しんでもらえたら、こーじさんはとってもうれしいです！&lt;/p&gt;
-
-&lt;p&gt;今日は参加（さんか）してくれてありがとう♪&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section-6"&gt;どうでしたか？&lt;/h2&gt;
-
-&lt;p&gt;最後（さいご）まで文章（ぶんしょう）を読んでくれてありがとう！一日プログラミング体験（たいけん）の様子（ようす）がわかったかな♪&lt;/p&gt;
-
-&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
-
-&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング体験（たいけん）に参加（さんか）してみませんか？毎月第３日曜日（しまね家庭の日）に行っています。お父さんやお母さんに相談（そうだん）して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
-
-&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section-7"&gt;謝辞（しゃじ）&lt;/h2&gt;
-
-&lt;p&gt;Smalruby（スモウルビー）の一日Rubyプログラミング体験（たいけん） in 松江（まつえ）で使っているコンピュータ：ラズベリーパイは、PEG（ペグ）という団体（だんたい）からプレゼントしてもらいました。&lt;/p&gt;
-
-&lt;p&gt;キーボードを使うことが難（むず）しかったり、英（えい）語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：Smalruby（スモウルビー）は、Ruby（ルビー）アソシエーションに助（たす）けてもらって作りました。&lt;/p&gt;
-
-&lt;p&gt;会場（かいじょう）は松江市の八雲公民館（やくもこうみんかん）に提供（ていきょう）していただきました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-05-18-trial/IMG_1145.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;PEG（ペグ）、Ruby（ルビー）アソシエーション、松江市の八雲公民館（やくもこうみんかん）、ありがとうございました m(_ _)m&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://pegpeg.jp/"&gt;PEG（ペグ）&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Ruby（ルビー）アソシエーション&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://matsue-city-kouminkan.jp/yakumo/"&gt;八雲公民館（やくもこうみんかん）&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
