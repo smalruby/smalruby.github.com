@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/10/25/coderdojo.html"/>
     <id>http://smalruby.jp/blog/2014/10/25/coderdojo.html</id>
     <published>2014-10-24T15:00:00Z</published>
-    <updated>2014-10-28T04:11:28+00:00</updated>
+    <updated>2014-10-28T15:58:14+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -56,6 +56,8 @@
 
 &lt;hr /&gt;
 
+&lt;p&gt;コーダー&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は小中学生のためのプログラミング&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;です。2011年にアイルランドで始まり、2014年7月&lt;ruby&gt;現在&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;げんざい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;では47カ国・450&lt;ruby&gt;拠点&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;きょてん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;で&lt;ruby&gt;開催&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かいさい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;されています。&lt;/p&gt;
+
 &lt;p&gt;コーダー&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;では、みんながやりたい・作りたいと思ったことをわたしたち&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;プログラミング&lt;ruby&gt;少年団&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しょうねんだん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;がサポートします。&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -83,6 +85,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rabo/open.html"&gt;松江オープンソースラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://coderdojo.jp/"&gt;CoderDojo Japan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
@@ -91,7 +94,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/10/19/trial.html"/>
     <id>http://smalruby.jp/blog/2014/10/19/trial.html</id>
     <published>2014-10-18T15:00:00Z</published>
-    <updated>2014-10-28T04:11:28+00:00</updated>
+    <updated>2014-10-28T15:58:14+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -169,7 +172,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/09/21/trial.html"/>
     <id>http://smalruby.jp/blog/2014/09/21/trial.html</id>
     <published>2014-09-20T15:00:00Z</published>
-    <updated>2014-10-28T04:11:28+00:00</updated>
+    <updated>2014-10-28T15:58:14+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -236,7 +239,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/08/17/trial.html"/>
     <id>http://smalruby.jp/blog/2014/08/17/trial.html</id>
     <published>2014-08-16T15:00:00Z</published>
-    <updated>2014-10-28T04:11:28+00:00</updated>
+    <updated>2014-10-28T15:58:14+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -344,7 +347,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/07/20/trial.html"/>
     <id>http://smalruby.jp/blog/2014/07/20/trial.html</id>
     <published>2014-07-19T15:00:00Z</published>
-    <updated>2014-10-28T04:11:28+00:00</updated>
+    <updated>2014-10-28T15:58:14+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -438,7 +441,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/06/15/trial.html"/>
     <id>http://smalruby.jp/blog/2014/06/15/trial.html</id>
     <published>2014-06-14T15:00:00Z</published>
-    <updated>2014-10-28T04:11:28+00:00</updated>
+    <updated>2014-10-28T15:58:14+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
