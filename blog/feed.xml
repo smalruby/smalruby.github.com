@@ -14,15 +14,17 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/11/16/trial.html"/>
     <id>http://smalruby.jp/blog/2014/11/16/trial.html</id>
     <published>2014-11-15T15:00:00Z</published>
-    <updated>2014-11-29T06:05:51+00:00</updated>
+    <updated>2014-11-30T10:40:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
     <content type="html">&lt;p&gt;みなさんこんにちは、&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;プログラミング&lt;ruby&gt;少年団&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しょうねんだん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;高尾&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たかお&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;です。&lt;/p&gt;
 
-&lt;p&gt;１１月１６日（日）に７回目となる一日Rubyプログラミング&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;in&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;イン&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; を &lt;ruby&gt;城北公民館&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;じょうほくこうみんかん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;でやりました。&lt;/p&gt;
+&lt;p&gt;１１月１６日（日）に７回目となる一日Rubyプログラミング&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;in&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;イン&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; を &lt;ruby&gt;城北公民館&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;じょうほくこうみんかん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;でやりました。&lt;ruby&gt;今回&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;こんかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は子どもが１１人、大人が１１人の&lt;ruby&gt;合計&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ごうけい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;２２人が&lt;ruby&gt;参加&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;してくれました。ありがとうございました。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="http://smalruby.doorkeeper.jp/events/15799"&gt;http://smalruby.doorkeeper.jp/events/15799&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2098-2.jpg" /&gt;&lt;/p&gt;
 
 &lt;p&gt;このイベントで「プログラミングがとってもおもしろくかったよ」という人は、ぜひ&lt;a href="http://coderdojo-matsue.doorkeeper.jp/"&gt;コーダー&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/a&gt;にも&lt;ruby&gt;遊&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あそ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;びにきてくださいね♪&lt;/p&gt;
 
@@ -30,7 +32,49 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;ruby&gt;今回&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;こんかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は子どもが１１人、大人が１１人の&lt;ruby&gt;合計&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ごうけい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;２２人が&lt;ruby&gt;参加&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;してくれました。ありがとうございました。&lt;/p&gt;
+&lt;p&gt;それでは、&lt;ruby&gt;当日&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;とうじつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;のようすを&lt;ruby&gt;写真&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しゃしん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;でお&lt;ruby&gt;伝&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;つた&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;えしますね♪&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;本多&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ほんだ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;さん（&lt;ruby&gt;先生&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;せんせい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;）の&lt;ruby&gt;説明&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;せつめい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;を&lt;ruby&gt;聞&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;き&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;いてから、ブロックの&lt;ruby&gt;組&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;く&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;み&lt;ruby&gt;合&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;わせでプログラムを&lt;ruby&gt;作&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;つく&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;っていきます。このイベントのポイントは&lt;ruby&gt;親子&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おやこ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;で&lt;ruby&gt;一緒&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;いっしょ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;取&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;と&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;り&lt;ruby&gt;組&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;く&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;むことですね。プログラミングは&lt;ruby&gt;初&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;はじ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;めてでもいつも&lt;ruby&gt;一緒&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;いっしょ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;にいる&lt;ruby&gt;家族&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かぞく&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;とだったら&lt;ruby&gt;楽&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たの&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;しんで&lt;ruby&gt;学&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まな&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;べます！&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2074-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2076-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2080-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2082-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2083-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2085-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2086-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;子どもたちは&lt;ruby&gt;本多&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ほんだ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;さんも&lt;ruby&gt;驚&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;おどろ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;くようなおもしろい&lt;ruby&gt;発見&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;はっけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;をしてくれます。&lt;ruby&gt;私&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;わたし&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;たち&lt;ruby&gt;先生&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;せんせい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;も、&lt;ruby&gt;毎回&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まいかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;どんな&lt;ruby&gt;発見&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;はっけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;をしてくれるか&lt;ruby&gt;楽&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たの&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;しみです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2087-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;真剣&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しんけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;取&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;と&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;り&lt;ruby&gt;組&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;く&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;んで、&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2088-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;みんなで&lt;ruby&gt;集&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;まって&lt;ruby&gt;本多&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ほんだ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;さんの&lt;ruby&gt;話&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;はなし&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;を&lt;ruby&gt;聞&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;き&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;きながら、&lt;ruby&gt;約&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;やく&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;1&lt;ruby&gt;時間&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;じかん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;45分で&lt;ruby&gt;簡単&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かんたん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;なゲームを&lt;ruby&gt;作&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;つく&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;り&lt;ruby&gt;上&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;あ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;げます！&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2091-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;ruby&gt;最後&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さいご&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は、みんなに&lt;ruby&gt;今日&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;きょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;感想&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かんそう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;を&lt;ruby&gt;発表&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;はっぴょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;してもらいます。&lt;ruby&gt;今回&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;こんかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;もみなさんの&lt;ruby&gt;笑顔&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;えがお&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;をたくさん&lt;ruby&gt;見&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;み&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;ることができました♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2095-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2096-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2097-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2098-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2099-2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-16-trial/IMG_2100-2.jpg" /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -72,7 +116,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/10/25/coderdojo.html"/>
     <id>http://smalruby.jp/blog/2014/10/25/coderdojo.html</id>
     <published>2014-10-24T15:00:00Z</published>
-    <updated>2014-11-29T06:05:51+00:00</updated>
+    <updated>2014-11-30T10:40:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -152,7 +196,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/10/19/trial.html"/>
     <id>http://smalruby.jp/blog/2014/10/19/trial.html</id>
     <published>2014-10-18T15:00:00Z</published>
-    <updated>2014-11-29T06:05:51+00:00</updated>
+    <updated>2014-11-30T10:40:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -230,7 +274,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/09/21/trial.html"/>
     <id>http://smalruby.jp/blog/2014/09/21/trial.html</id>
     <published>2014-09-20T15:00:00Z</published>
-    <updated>2014-11-29T06:05:51+00:00</updated>
+    <updated>2014-11-30T10:40:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -297,7 +341,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/08/17/trial.html"/>
     <id>http://smalruby.jp/blog/2014/08/17/trial.html</id>
     <published>2014-08-16T15:00:00Z</published>
-    <updated>2014-11-29T06:05:51+00:00</updated>
+    <updated>2014-11-30T10:40:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -405,7 +449,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/07/20/trial.html"/>
     <id>http://smalruby.jp/blog/2014/07/20/trial.html</id>
     <published>2014-07-19T15:00:00Z</published>
-    <updated>2014-11-29T06:05:51+00:00</updated>
+    <updated>2014-11-30T10:40:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
