@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/01/18/trial.html"/>
     <id>http://smalruby.jp/blog/2015/01/18/trial.html</id>
     <published>2015-01-17T15:00:00Z</published>
-    <updated>2015-01-31T06:04:35+00:00</updated>
+    <updated>2015-01-31T23:43:42+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -279,7 +279,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/01/17/seminar-for-trial.html"/>
     <id>http://smalruby.jp/blog/2015/01/17/seminar-for-trial.html</id>
     <published>2015-01-16T15:00:00Z</published>
-    <updated>2015-01-31T06:04:35+00:00</updated>
+    <updated>2015-01-31T23:43:42+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -357,11 +357,98 @@
 </content>
   </entry>
   <entry>
+    <title>１月１０日（土）に第３回コーダー道場松江を開催しました♪</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2015/01/10/coderdojo.html"/>
+    <id>http://smalruby.jp/blog/2015/01/10/coderdojo.html</id>
+    <published>2015-01-09T15:00:00Z</published>
+    <updated>2015-01-31T23:43:42+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の本多(ほんだ)です。&lt;/p&gt;
+
+&lt;p&gt;１月１０日（土）の１０：００ー１１：３０と１３：３０ー１６：３０に、３回目となるコーダー道場松江を松江オープンソースラボでやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://coderdojo-matsue.doorkeeper.jp/events/18091"&gt;【午前】コーダー道場 松江：CoderDojo Matsue／松江駅前／1/10 10:00-11:30&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://coderdojo-matsue.doorkeeper.jp/events/18092"&gt;【午後】コーダー道場 松江：CoderDojo Matsue／松江駅前／1/10 13:30-16:30&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;今回は合計８人が参加してくれました。ありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4968.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;今回のテーマは、「距離センサー」でした。センサーから目的のものまでの距離が測れる距離センサーを使って、手を動かしてキャラクターを動かすゲームや、手の動く速さを測定するプログラムを作りました。それ以外にも、フラッシュ暗算のプログラムや簡単なペイントソフトを作ってくれた友達もいました。&lt;/p&gt;
+
+&lt;p&gt;また、今回は鳥取県鳥取市から参加してくれた友達もいました。遠いところからわざわざ来てくれてありがとう！&lt;/p&gt;
+
+&lt;p&gt;最後は、作ったゲームをみんなでし合ってから終わりました。&lt;/p&gt;
+
+&lt;p&gt;当日のようすを写真でおつたえします。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4963.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4964.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4968.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4972.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4973.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4974.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4975.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4976.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4979.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-10-coderdojo/IMG_4980.JPG" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;コーダー道場は小中学生のためのプログラミング道場です。2011年にアイルランドで始まり、2014年9月現在では51カ国・526拠点で開催されています。&lt;/p&gt;
+
+&lt;p&gt;コーダー道場松江では、みんながやりたい・作りたいと思ったことをわたしたちRubyプログラミング少年団がサポートします。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;みんなも体験してみませんか？&lt;/p&gt;
+
+&lt;p&gt;最後まで文章を読んでくれてありがとう！一日プログラミング体験の様子がわかったかな♪&lt;/p&gt;
+
+&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
+
+&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング体験に参加してみませんか？毎月第３日曜日（しまね家庭の日）に行っています。お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
+
+&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section"&gt;謝辞&lt;/h2&gt;
+
+&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
+
+&lt;p&gt;会場の松江オープンソースラボは、&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9"&gt;オープンソースソフトウェア&lt;/a&gt;に関する会議や打合せや研修の場として、松江市が無料で開放しています。&lt;/p&gt;
+
+&lt;p&gt;Rubyアソシエーション、松江市、ありがとうございました m(_ _)m&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rabo/open.html"&gt;松江オープンソースラボ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://coderdojo.jp/"&gt;CoderDojo Japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
     <title>１２月２１日（日）に一日Rubyプログラミング体験 in 松江（佐太公民館）を開催しました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2014/12/21/trial.html"/>
     <id>http://smalruby.jp/blog/2014/12/21/trial.html</id>
     <published>2014-12-20T15:00:00Z</published>
-    <updated>2015-01-31T06:04:35+00:00</updated>
+    <updated>2015-01-31T23:43:42+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -440,7 +527,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/12/13/trial.html"/>
     <id>http://smalruby.jp/blog/2014/12/13/trial.html</id>
     <published>2014-12-12T15:00:00Z</published>
-    <updated>2015-01-31T06:04:35+00:00</updated>
+    <updated>2015-01-31T23:43:42+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -524,7 +611,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/11/16/trial.html"/>
     <id>http://smalruby.jp/blog/2014/11/16/trial.html</id>
     <published>2014-11-15T15:00:00Z</published>
-    <updated>2015-01-31T06:04:35+00:00</updated>
+    <updated>2015-01-31T23:43:42+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -618,84 +705,6 @@
   &lt;li&gt;&lt;a href="http://pegpeg.jp/"&gt;PEG&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://matsue-city-kouminkan.jp/jyohoku/"&gt;城北公民館&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>１１月１５日（土）に第２回コーダー道場松江を開催しました♪</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2014/11/15/coderdojo.html"/>
-    <id>http://smalruby.jp/blog/2014/11/15/coderdojo.html</id>
-    <published>2014-11-14T15:00:00Z</published>
-    <updated>2015-01-31T06:04:35+00:00</updated>
-    <author>
-      <name>Smalruby</name>
-    </author>
-    <content type="html">&lt;p&gt;みなさんこんにちは、&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;プログラミング&lt;ruby&gt;少年団&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しょうねんだん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;本多&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ほんだ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;です。&lt;/p&gt;
-
-&lt;p&gt;１１月１５日（土）の１３：３０ー１６：３０に、２回目となるコーダー&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; を &lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;オープンソースラボでやりました。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://smalruby.doorkeeper.jp/events/16083"&gt;http://smalruby.doorkeeper.jp/events/16083&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;ruby&gt;今回&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;こんかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は７人が&lt;ruby&gt;参加&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;してくれました。ありがとうございました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-15-coderdojo/20141115_072049488_iOS.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;ruby&gt;今回&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;こんかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;のテーマは、「&lt;ruby&gt;変化球&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;へんかんきゅう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;」でした。ピンポンゲームで打った球を曲げたり、投げたボールが重力に引かれて地面に落ちてくるのを&lt;ruby&gt;表現&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ひょうげん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;するための&lt;ruby&gt;方法&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ほうほう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;をみんなで勉強して、それを活かしたゲームを作りました。&lt;/p&gt;
-
-&lt;p&gt;&lt;ruby&gt;最後&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さいご&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は、作ったゲームをみんなで&lt;ruby&gt;紹介&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しょうかい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;し合ってから終わりました。&lt;/p&gt;
-
-&lt;p&gt;&lt;ruby&gt;当日&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;とうじつ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;のようすを&lt;ruby&gt;写真&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しゃしん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;でおつたえします。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-15-coderdojo/20141115_072049488_iOS.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-15-coderdojo/20141115_072251811_iOS.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-15-coderdojo/20141115_072425791_iOS.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-15-coderdojo/20141115_072727696_iOS.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-15-coderdojo/20141115_072829964_iOS.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-15-coderdojo/20141115_072935420_iOS.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2014-11-15-coderdojo/20141115_073043858_iOS.jpg" /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;コーダー&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;は小中学生のためのプログラミング&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;です。2011年にアイルランドで始まり、2014年9月&lt;ruby&gt;現在&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;げんざい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;では51カ国・526&lt;ruby&gt;拠点&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;きょてん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;で&lt;ruby&gt;開催&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かいさい&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;されています。&lt;/p&gt;
-
-&lt;p&gt;コーダー&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;では、みんながやりたい・作りたいと思ったことをわたしたち&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;プログラミング&lt;ruby&gt;少年団&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しょうねんだん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;がサポートします。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;みんなも&lt;ruby&gt;体験&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たいけん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt; してみませんか？&lt;/h2&gt;
-
-&lt;p&gt;&lt;ruby&gt;最後&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さいご&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;まで&lt;ruby&gt;文章&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ぶんしょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;を&lt;ruby&gt;読&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;よ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;んでくれてありがとう！コーダー&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;様子&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ようす&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;がわかったかな♪&lt;/p&gt;
-
-&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
-
-&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみもコーダー&lt;ruby&gt;道場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;どうじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;参加&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;してみませんか？お父さんやお母さんに&lt;ruby&gt;相談&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;そうだん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から&lt;ruby&gt;申&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;もう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;し&lt;ruby&gt;込&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;こ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;んでみよう！&lt;/p&gt;
-
-&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;&lt;ruby&gt;謝辞&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;しゃじ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;&lt;/h2&gt;
-
-&lt;p&gt;キーボードを使うことが&lt;ruby&gt;難&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;むず&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;しかったり、&lt;ruby&gt;英語&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;えいご&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;アソシエーションに&lt;ruby&gt;助&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;たす&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;けてもらって作りました。&lt;/p&gt;
-
-&lt;p&gt;&lt;ruby&gt;会場&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かいじょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;松江&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;オープンソースラボは、 &lt;a href="http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9"&gt;オープンソースソフトウェア&lt;/a&gt;に&lt;ruby&gt;関&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かん&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;する&lt;ruby&gt;会議&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かいぎ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;や&lt;ruby&gt;打合&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;うちあわ&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;せや&lt;ruby&gt;研修&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;けんしゅう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;の場として、&lt;ruby&gt;松江市&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえし&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;が&lt;ruby&gt;無料&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;むりょう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;で&lt;ruby&gt;開放&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;かいほう&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;しています。&lt;/p&gt;
-
-&lt;p&gt;&lt;ruby&gt;Ruby&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;ルビー&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;アソシエーション、&lt;ruby&gt;松江市&lt;rp&gt;（&lt;/rp&gt;&lt;rt&gt;まつえし&lt;/rt&gt;&lt;rp&gt;）&lt;/rp&gt;&lt;/ruby&gt;、ありがとうございました m(_ _)m&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rabo/open.html"&gt;松江オープンソースラボ&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://coderdojo.jp/"&gt;CoderDojo Japan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
