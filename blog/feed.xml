@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/02/08/rename-coderdojo-progshoudojo.html"/>
     <id>http://smalruby.jp/blog/2015/02/08/rename-coderdojo-progshoudojo.html</id>
     <published>2015-02-07T15:00:00Z</published>
-    <updated>2015-02-08T03:22:32+00:00</updated>
+    <updated>2015-02-08T03:34:53+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -93,7 +93,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/01/18/trial.html"/>
     <id>http://smalruby.jp/blog/2015/01/18/trial.html</id>
     <published>2015-01-17T15:00:00Z</published>
-    <updated>2015-02-08T03:22:30+00:00</updated>
+    <updated>2015-02-08T03:34:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -358,7 +358,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/01/17/seminar-for-trial.html"/>
     <id>http://smalruby.jp/blog/2015/01/17/seminar-for-trial.html</id>
     <published>2015-01-16T15:00:00Z</published>
-    <updated>2015-02-08T03:22:30+00:00</updated>
+    <updated>2015-02-08T03:34:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -440,7 +440,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/01/10/coderdojo.html"/>
     <id>http://smalruby.jp/blog/2015/01/10/coderdojo.html</id>
     <published>2015-01-09T15:00:00Z</published>
-    <updated>2015-02-08T03:22:30+00:00</updated>
+    <updated>2015-02-08T03:34:53+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -448,8 +448,10 @@
 
 &lt;p&gt;１月１０日（土）の１０：００ー１１：３０と１３：３０ー１６：３０に、３回目となるコーダー道場松江を松江オープンソースラボでやりました。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="http://coderdojo-matsue.doorkeeper.jp/events/18091"&gt;【午前】コーダー道場 松江：CoderDojo Matsue／松江駅前／1/10 10:00-11:30&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://coderdojo-matsue.doorkeeper.jp/events/18092"&gt;【午後】コーダー道場 松江：CoderDojo Matsue／松江駅前／1/10 13:30-16:30&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://coderdojo-matsue.doorkeeper.jp/events/18091"&gt;【午前】コーダー道場 松江：CoderDojo Matsue／松江駅前／1/10 10:00-11:30&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://coderdojo-matsue.doorkeeper.jp/events/18092"&gt;【午後】コーダー道場 松江：CoderDojo Matsue／松江駅前／1/10 13:30-16:30&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;今回は合計８人が参加してくれました。ありがとうございました。&lt;/p&gt;
 
@@ -495,13 +497,13 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;みんなも体験してみませんか？&lt;/p&gt;
+&lt;p&gt;みんなも参加してみませんか？&lt;/p&gt;
 
-&lt;p&gt;最後まで文章を読んでくれてありがとう！一日プログラミング体験の様子がわかったかな♪&lt;/p&gt;
+&lt;p&gt;最後まで文章を読んでくれてありがとう！コーダー道場の様子がわかったかな♪&lt;/p&gt;
 
 &lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
 
-&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング体験に参加してみませんか？毎月第３日曜日（しまね家庭の日）に行っています。お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
+&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみもコーダー道場に参加してみませんか？お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
 
 &lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
 
@@ -527,7 +529,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/12/21/trial.html"/>
     <id>http://smalruby.jp/blog/2014/12/21/trial.html</id>
     <published>2014-12-20T15:00:00Z</published>
-    <updated>2015-02-08T03:22:30+00:00</updated>
+    <updated>2015-02-08T03:34:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -606,7 +608,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/12/13/trial.html"/>
     <id>http://smalruby.jp/blog/2014/12/13/trial.html</id>
     <published>2014-12-12T15:00:00Z</published>
-    <updated>2015-02-08T03:22:30+00:00</updated>
+    <updated>2015-02-08T03:34:51+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
