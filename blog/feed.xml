@@ -14,27 +14,27 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/02/08/rename-coderdojo-progshoudojo.html"/>
     <id>http://smalruby.jp/blog/2015/02/08/rename-coderdojo-progshoudojo.html</id>
     <published>2015-02-07T15:00:00Z</published>
-    <updated>2015-02-08T02:38:06+00:00</updated>
+    <updated>2015-02-08T02:41:41+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
     <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾です。&lt;/p&gt;
 
+&lt;h2 id="section"&gt;はじめに&lt;/h2&gt;
+
 &lt;p&gt;昨年10月から「コーダー道場 松江:CoderDojo Matsue」を開催しておりますが、このたびイベントの名前を「プログラミング道場:Programming Dojo」または「Rubyプログラミング少年団のプログラミング道場:ProgShouDojo」に変えることにいたしました（変更理由についてはこの記事の後ろのほうで説明いたします）。&lt;/p&gt;
 
 &lt;p&gt;ご安心ください。変更するのは名前だけです。「プログラミングを体験した子どもたちがステップアップするための &lt;em&gt;無料&lt;/em&gt; のプログラミング教室」であることに変わりありません。これからも「プログラミング道場:Programming Dojo」をよろしくお願いします m(_ _)m&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/images/bu_400x300.png" /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id="section"&gt;名前の変更理由について&lt;/h2&gt;
+&lt;h2 id="section-1"&gt;名前の変更理由について&lt;/h2&gt;
 
 &lt;p&gt;それでは、少し長いですが、「コーダー道場 松江:CoderDojo Matsue」から「プログラミング道場:Programming Dojo」に名前を変更する理由を説明します。&lt;/p&gt;
 
-&lt;h3 id="section-1"&gt;そもそもコーダー道場って何？&lt;/h3&gt;
+&lt;h3 id="section-2"&gt;そもそもコーダー道場って何？&lt;/h3&gt;
 
 &lt;p&gt;まずは、コーダー道場:CoderDojoについておさらいです。&lt;/p&gt;
 
@@ -43,7 +43,7 @@
 
 &lt;p&gt;コーダー道場では、基本的に指導者と子どもが一対一でやりとりをしてプログラミングを学びます。また、プログラミングの教え方や利用するツール・プログラミング言語には決まりはありません。それぞれのコーダー道場が、自分たちに適したツールやプログラミング言語を選択しています。&lt;/p&gt;
 
-&lt;h3 id="section-2"&gt;なぜ名前を変えるの？&lt;/h3&gt;
+&lt;h3 id="section-3"&gt;なぜ名前を変えるの？&lt;/h3&gt;
 
 &lt;p&gt;当初、コーダー道場と私たちがやりたいことが一致すると考えて、「コーダー道場 松江:CoderDojo Matsue」を始めました。しかしながら、「無償ボランティアが指導する」という決まりが私たちとは合わないのではないかと考えるようになりました。&lt;/p&gt;
 
@@ -63,7 +63,7 @@
 
 &lt;p&gt;そこで、私たちの活動を「プログラミング道場」と呼ぶことにしました。&lt;/p&gt;
 
-&lt;h3 id="section-3"&gt;プログラミング道場のこれから&lt;/h3&gt;
+&lt;h3 id="section-4"&gt;プログラミング道場のこれから&lt;/h3&gt;
 
 &lt;p&gt;本日から私たちの活動を「プログラミング道場」と呼ぶことにし、ウェブサイトの表記も変更します。
 2月28日(土)以降のイベントの名前も変更します。&lt;/p&gt;
@@ -74,7 +74,7 @@
 
 &lt;hr /&gt;
 
-&lt;h2 id="section-4"&gt;プログラミング道場の参加者募集！（指導者も募集中！）&lt;/h2&gt;
+&lt;h2 id="section-5"&gt;プログラミング道場の参加者募集！（指導者も募集中！）&lt;/h2&gt;
 
 &lt;p&gt;「コーダー道場 松江」あらため、「プログラミング道場」では参加者を募集しております。今後の開催予定の確認や、お申し込みは http://coderdojo-matsue.doorkeeper.jp/ からお願いします。&lt;/p&gt;
 
@@ -88,7 +88,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/01/18/trial.html"/>
     <id>http://smalruby.jp/blog/2015/01/18/trial.html</id>
     <published>2015-01-17T15:00:00Z</published>
-    <updated>2015-02-08T02:38:05+00:00</updated>
+    <updated>2015-02-08T02:41:40+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -353,7 +353,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/01/17/seminar-for-trial.html"/>
     <id>http://smalruby.jp/blog/2015/01/17/seminar-for-trial.html</id>
     <published>2015-01-16T15:00:00Z</published>
-    <updated>2015-02-08T02:38:05+00:00</updated>
+    <updated>2015-02-08T02:41:40+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -435,7 +435,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/01/10/coderdojo.html"/>
     <id>http://smalruby.jp/blog/2015/01/10/coderdojo.html</id>
     <published>2015-01-09T15:00:00Z</published>
-    <updated>2015-02-08T02:38:05+00:00</updated>
+    <updated>2015-02-08T02:41:40+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -522,7 +522,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/12/21/trial.html"/>
     <id>http://smalruby.jp/blog/2014/12/21/trial.html</id>
     <published>2014-12-20T15:00:00Z</published>
-    <updated>2015-02-08T02:38:05+00:00</updated>
+    <updated>2015-02-08T02:41:40+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -601,7 +601,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2014/12/13/trial.html"/>
     <id>http://smalruby.jp/blog/2014/12/13/trial.html</id>
     <published>2014-12-12T15:00:00Z</published>
-    <updated>2015-02-08T02:38:05+00:00</updated>
+    <updated>2015-02-08T02:41:40+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
