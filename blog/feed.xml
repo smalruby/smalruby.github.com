@@ -5,16 +5,98 @@
   <id>http://smalruby.jp/blog</id>
   <link href="http://smalruby.jp/blog"/>
   <link href="http://smalruby.jp/blog/blog/feed.xml" rel="self"/>
-  <updated>2015-03-14T15:00:00Z</updated>
+  <updated>2015-03-20T15:00:00Z</updated>
   <author>
     <name>Smalruby</name>
   </author>
+  <entry>
+    <title>３月２１日（土）に第５回プログラミング道場（島根県松江市）を開催しました♪</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2015/03/21/progshoudojo.html"/>
+    <id>http://smalruby.jp/blog/2015/03/21/progshoudojo.html</id>
+    <published>2015-03-20T15:00:00Z</published>
+    <updated>2015-03-22T12:27:10+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾(たかお)です。&lt;/p&gt;
+
+&lt;p&gt;３月２１日（土）の１０：００ー１１：３０と１３：３０ー１６：３０に、５回目となるプログラミング道場を松江オープンソースラボでやりました。&lt;/p&gt;
+
+&lt;p&gt;プログラミング道場は、プログラミングを体験した子どもたちがステップアップするための無料のプログラミング教室で、みんながやりたい・作りたいと思ったことをわたしたちRubyプログラミング少年団がサポートしています。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://progshoudojo.doorkeeper.jp/events/18134"&gt;【午前】プログラミング道場：ProgShouDojo／松江駅前／3/21 10:00-11:30&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://progshoudojo.doorkeeper.jp/events/18135"&gt;【午後】プログラミング道場：ProgShouDojo／松江駅前／3/21 13:30-16:30&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;今回は合計７人が参加してくれました。ありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-03-21-progshoudojo/IMG_5803.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-03-21-progshoudojo/IMG_5821.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;今回のテーマは、「スモウルボットV3」でした。スモウルボットV3は小学生がひとりで制作できるライントレーサーです。スモウルビーで作成したプログラムで自由に制御できます。&lt;/p&gt;
+
+&lt;p&gt;スモウルボットV3をプログラムで制御してコースを一周することを目指してプログラミングしました。&lt;/p&gt;
+
+&lt;p&gt;それでは、当日の様子を写真でお伝えします。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-03-21-progshoudojo/IMG_5826.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;午前の部&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-03-21-progshoudojo/IMG_5801.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-03-21-progshoudojo/IMG_5803.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;午後の部&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-03-21-progshoudojo/IMG_5804.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-03-21-progshoudojo/IMG_5821.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;みんなの感想♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-03-21-progshoudojo/IMG_5827.jpg" /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;みんなも参加してみませんか？&lt;/p&gt;
+
+&lt;p&gt;最後まで文章を読んでくれてありがとう！プログラミング道場の様子がわかったかな♪&lt;/p&gt;
+
+&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
+
+&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみもプログラミング道場に参加してみませんか？お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
+
+&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section"&gt;謝辞&lt;/h2&gt;
+
+&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
+
+&lt;p&gt;会場の松江オープンソースラボは、&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9"&gt;オープンソースソフトウェア&lt;/a&gt;に関する会議や打合せや研修の場として、松江市が無料で開放しています。&lt;/p&gt;
+
+&lt;p&gt;Rubyアソシエーション、松江市、ありがとうございました m(_ _)m&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rabo/open.html"&gt;松江オープンソースラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>３月１５日（日）に一日Rubyプログラミング体験 in 松江（宍道公民館）を開催しました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2015/03/15/trial.html"/>
     <id>http://smalruby.jp/blog/2015/03/15/trial.html</id>
     <published>2015-03-14T15:00:00Z</published>
-    <updated>2015-03-22T12:06:07+00:00</updated>
+    <updated>2015-03-22T12:27:10+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -115,10 +197,10 @@
   </entry>
   <entry>
     <title>２月２８日（土）に第４回プログラミング道場（島根県松江市）を開催しました♪</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2015/02/28/coderdojo.html"/>
-    <id>http://smalruby.jp/blog/2015/02/28/coderdojo.html</id>
+    <link rel="alternate" href="http://smalruby.jp/blog/2015/02/28/progshoudojo.html"/>
+    <id>http://smalruby.jp/blog/2015/02/28/progshoudojo.html</id>
     <published>2015-02-27T15:00:00Z</published>
-    <updated>2015-03-22T12:06:07+00:00</updated>
+    <updated>2015-03-22T12:27:10+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -204,7 +286,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/02/15/trial.html"/>
     <id>http://smalruby.jp/blog/2015/02/15/trial.html</id>
     <published>2015-02-14T15:00:00Z</published>
-    <updated>2015-03-22T12:06:07+00:00</updated>
+    <updated>2015-03-22T12:27:10+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -286,7 +368,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/02/08/rename-coderdojo-progshoudojo.html"/>
     <id>http://smalruby.jp/blog/2015/02/08/rename-coderdojo-progshoudojo.html</id>
     <published>2015-02-07T15:00:00Z</published>
-    <updated>2015-03-22T12:06:07+00:00</updated>
+    <updated>2015-03-22T12:27:10+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -365,7 +447,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/01/18/trial.html"/>
     <id>http://smalruby.jp/blog/2015/01/18/trial.html</id>
     <published>2015-01-17T15:00:00Z</published>
-    <updated>2015-03-22T12:06:07+00:00</updated>
+    <updated>2015-03-22T12:27:10+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -617,88 +699,6 @@
 &lt;p&gt;会場は島根県益田市の島根県立西部高等技術校に提供していただきました。&lt;/p&gt;
 
 &lt;p&gt;PEG、Rubyアソシエーション、島根県立西部高等技術校、ありがとうございました&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://pegpeg.jp/"&gt;PEG&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.pref.shimane.lg.jp/industry/employ/kikan/seibu_gijutsu/"&gt;島根県立西部高等技術校&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>１月１７日（土）に一日Rubyプログラミング体験の指導者向けの講習会（島根県立西部高等技術校）を開催しました♪</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2015/01/17/seminar-for-trial.html"/>
-    <id>http://smalruby.jp/blog/2015/01/17/seminar-for-trial.html</id>
-    <published>2015-01-16T15:00:00Z</published>
-    <updated>2015-03-22T12:06:07+00:00</updated>
-    <author>
-      <name>Smalruby</name>
-    </author>
-    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾(たかお)です。&lt;/p&gt;
-
-&lt;p&gt;１月１７日（土）に初めてとなる一日Rubyプログラミング体験の指導者向け講習会を島根県益田市を島根県立西部高等技術校で開催しました。&lt;/p&gt;
-
-&lt;p&gt;島根県立西部高等技術校の職員の方に声がけをしていただき、15人の方に参加いただきました。ありがとうございました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-17-seminar-for-trial/DSCF2417.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;それでは、当日のようすを写真でお伝えします。&lt;/p&gt;
-
-&lt;p&gt;まずは、島根県立西部高等技術校の職員の方が今回の講習会の趣旨や島根県益田市の問題点、IT産業と子どもたちへの期待などを説明されました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-17-seminar-for-trial/DSCF2417.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;次に、みなさんに資料をとっていただきました。これは、なるべく一日Rubyプログラミング体験と同じ雰囲気を感じてもらうために「受付で資料を配布する」ということを体験してもらうためです。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-17-seminar-for-trial/DSCF2418.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;次に、事前に準備する機材について説明しました。私たちは &lt;a href="http://pegpeg.jp/"&gt;PEG&lt;/a&gt; からいただいたラズベリーパイを利用しているので、事前にディスプレイだけは配線しておきます。こちらではノートパソコンを利用するとのことでした。ポイントとしては、「機材のうち値段が高いものについては主催者側で事前に準備しておかないと、子どもたちが誤って壊してしまうことがある」ということですね。そのため、私たちはディスプレイ(約3万円)だけは事前に配線しています。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-17-seminar-for-trial/DSCF2419.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;次に、講師の本多さんが実際の一日Rubyプログラミング体験の流れに従って、ラズベリーパイの接続、コンピュータ、スモウルビーとRuby、プログラムの実行・停止・作り方、命令ブロックからRubyのプログラムへの変換を順番に説明しました。&lt;/p&gt;
-
-&lt;p&gt;教えるときのポイントも合わせて説明しましたので、あっという間に時間は過ぎていきました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-17-seminar-for-trial/DSCF2420.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-17-seminar-for-trial/DSCF2421.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-17-seminar-for-trial/DSCF2422.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-17-seminar-for-trial/DSCF2423.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="" src="/files/blog/2015-01-17-seminar-for-trial/DSCF2424.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;最後にみなさんからの感想と質問で終了です。&lt;/p&gt;
-
-&lt;p&gt;受講された皆さんは、とても興味を持っていただけたみたいで、みなさん、継続してやってみたい・やれそうだ、ということでした。ありがたいことです。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Ruby(スモウルビー)を使ったプログラミング体験に興味がある方は、指導者向けの講習会を実施してみませんか？&lt;/p&gt;
-
-&lt;p&gt;残念ながら、私たちが直接伺って各地域で継続的にプログラミング体験を行うのは時間的な制限で難しいです。そのため、各地域でプログラミング体験を行ってくださる方を募集しています。&lt;/p&gt;
-
-&lt;p&gt;子どもたちはプログラミングに興味がありますし、私たちが行っているプログラミング体験は親子を対象としています。各地域で行うイベントとしてもおもしろいのではないかと思います。&lt;/p&gt;
-
-&lt;p&gt;興味がある方は、メール &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#115;&amp;#109;&amp;#097;&amp;#108;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#106;&amp;#112;"&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#115;&amp;#109;&amp;#097;&amp;#108;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#106;&amp;#112;&lt;/a&gt; にてお気軽にお問い合わせください。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section"&gt;謝辞&lt;/h2&gt;
-
-&lt;p&gt;一日Rubyプログラミング体験 in 松江や指導者向け講習会で使っているコンピュータ：ラズベリーパイは、PEGという団体からプレゼントしてもらいました。&lt;/p&gt;
-
-&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
-
-&lt;p&gt;会場は島根県益田市の島根県立西部高等技術校に提供していただきました。&lt;/p&gt;
-
-&lt;p&gt;PEG、Rubyアソシエーション、島根県立西部高等技術校、ありがとうございました。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="http://pegpeg.jp/"&gt;PEG&lt;/a&gt;&lt;/li&gt;
