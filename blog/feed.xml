@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/04/19/trial.html"/>
     <id>http://smalruby.jp/blog/2015/04/19/trial.html</id>
     <published>2015-04-18T15:00:00Z</published>
-    <updated>2015-04-23T14:52:28+00:00</updated>
+    <updated>2015-04-23T16:13:12+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -144,11 +144,164 @@
 </content>
   </entry>
   <entry>
+    <title>４月１１日（土）に第６回プログラミング道場（島根県松江市）を開催しました♪</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2015/04/11/progshoudojo.html"/>
+    <id>http://smalruby.jp/blog/2015/04/11/progshoudojo.html</id>
+    <published>2015-04-10T15:00:00Z</published>
+    <updated>2015-04-23T16:13:12+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾(たかお)です。&lt;/p&gt;
+
+&lt;p&gt;４月１１日（土）の１０：００ー１１：３０と１３：３０ー１６：３０に、６回目となるプログラミング道場を松江オープンソースラボでやりました。&lt;/p&gt;
+
+&lt;p&gt;プログラミング道場は、プログラミングを体験した子どもたちがステップアップするための無料のプログラミング教室で、みんながやりたい・作りたいと思ったことをわたしたちRubyプログラミング少年団がサポートしています。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://progshoudojo.doorkeeper.jp/events/21601"&gt;【午前】プログラミング道場&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://progshoudojo.doorkeeper.jp/events/21602"&gt;【午後】プログラミング道場&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;今回は午後の部に７人が参加してくれました。残念ながら午前の部は参加者がありませんでした (^^;; また、島根大学の学生を中心に１０人のスタッフで運営しました。みなさん、ありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/IMG_5942.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/IMG_5960.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;ここのところ、&lt;a href="https://one-day-ruby-trial.doorkeeper.jp"&gt;１日体験&lt;/a&gt;を開催するごとにプログラミング道場への参加者が増えていて、とってもうれしいです！
+ただ、今後は定員オーバーになるかもしれませんので、参加を希望される方は早めに&lt;a href="https://progshoudojo.doorkeeper.jp"&gt;お申込み&lt;/a&gt;いただいたほうがいいかもしれませんね♪&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;今回のテーマは、「スモウルボットV3の制作」でした。スモウルボットV3は小学生がひとりで制作できるライントレーサーです。前回、スモウルボットV3を制御したので、今回はスモウルボットV3自体を制作しました。説明書は「&lt;a href="http://www.instructables.com/id/WIP-スモウルボットV3キットの組み立て方/?lang=ja&amp;amp;amp;ALLSTEPS"&gt;WIP: スモウルボットV3キットの組み立て方&lt;/a&gt;」にあります。&lt;/p&gt;
+
+&lt;p&gt;それと、今回はNHK松江放送局の取材がありました。その様子は&lt;a href="http://www.nhk.or.jp/hiroshima/face/index.html"&gt;4/24(金) 19:30-19:55のフェイス&lt;/a&gt;で放送される予定です。楽しみですね〜♪&lt;/p&gt;
+
+&lt;p&gt;それでは、当日の様子を写真でお伝えします。&lt;/p&gt;
+
+&lt;p&gt;会場は、松江駅前テルサ別館の２階です。ローソンの２階って表現したほうがわかりやすいかな。こんな看板がでているので、これを目印にしてくださいね。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/IMG_5925.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;まずは子どもたちが自分のコンピュータを準備するところからです。準備ができた人から、好きなことやります！&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8465.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/DSCN4585.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;準備ができた人は、ゲームをしてもいいんです！&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8466.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;前回使ったスモウルボットV3。今回はこれを作ります。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8471.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8472.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8474.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;さぁ、みんなの準備ができたので本多さんのあいさつから始まります。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8478.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;今日は、こんなにたくさんの島根大学の学生さんがスタッフとして手伝ってくださいました。本当にありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8480.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;その学生さんの自己紹介。緊張している感じが伝わってきます。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8494.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;そして、子どもたちも自己紹介♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8497.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;今日のテーマを説明したら…&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8506.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;あとは自由です。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;テーマにそってスモウルボットV3を制作したり、&lt;/li&gt;
+  &lt;li&gt;はじめてプログラミング道場に来たので、スモウルビーの使い方の復習をしたり、&lt;/li&gt;
+  &lt;li&gt;スモウルボットV3を制御したり、&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;今回もいろいろでしたね。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8519.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8520.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8523.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8529.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8530.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8541.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8551.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8560.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/CIMG8563.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;おもしろいプログラムができたら、それをみんなに紹介してもらいました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/IMG_5921.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/IMG_5923.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;最後は記念撮影で…&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/IMG_5942.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;…みんなの感想♪&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/files/blog/2015-04-11-progshoudojo/IMG_5960.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;今日も、とても楽しかったです！&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;みんなも参加してみませんか？&lt;/p&gt;
+
+&lt;p&gt;最後まで文章を読んでくれてありがとう！プログラミング道場の様子がわかったかな♪&lt;/p&gt;
+
+&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
+
+&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみもプログラミング道場に参加してみませんか？お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
+
+&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="section"&gt;謝辞&lt;/h2&gt;
+
+&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
+
+&lt;p&gt;会場の松江オープンソースラボは、&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9"&gt;オープンソースソフトウェア&lt;/a&gt;に関する会議や打合せや研修の場として、松江市が無料で開放しています。&lt;/p&gt;
+
+&lt;p&gt;Rubyアソシエーション、松江市、ありがとうございました m(_ _)m&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rabo/open.html"&gt;松江オープンソースラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
     <title>３月２１日（土）に第５回プログラミング道場（島根県松江市）を開催しました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2015/03/21/progshoudojo.html"/>
     <id>http://smalruby.jp/blog/2015/03/21/progshoudojo.html</id>
     <published>2015-03-20T15:00:00Z</published>
-    <updated>2015-04-23T14:52:28+00:00</updated>
+    <updated>2015-04-23T16:13:12+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -230,7 +383,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/03/15/trial.html"/>
     <id>http://smalruby.jp/blog/2015/03/15/trial.html</id>
     <published>2015-03-14T15:00:00Z</published>
-    <updated>2015-04-23T14:52:28+00:00</updated>
+    <updated>2015-04-23T16:13:12+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -334,7 +487,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/02/28/progshoudojo.html"/>
     <id>http://smalruby.jp/blog/2015/02/28/progshoudojo.html</id>
     <published>2015-02-27T15:00:00Z</published>
-    <updated>2015-04-23T14:52:28+00:00</updated>
+    <updated>2015-04-23T16:13:12+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -420,7 +573,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/02/15/trial.html"/>
     <id>http://smalruby.jp/blog/2015/02/15/trial.html</id>
     <published>2015-02-14T15:00:00Z</published>
-    <updated>2015-04-23T14:52:28+00:00</updated>
+    <updated>2015-04-23T16:13:12+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -495,85 +648,6 @@
   &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://matsue-city-kouminkan.jp/mihonoseki/"&gt;美保関公民館&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>「コーダー道場 松江:CoderDojo Matsue」の名前を「プログラミング道場:ProgShouDojo」に変えます</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2015/02/08/rename-coderdojo-progshoudojo.html"/>
-    <id>http://smalruby.jp/blog/2015/02/08/rename-coderdojo-progshoudojo.html</id>
-    <published>2015-02-07T15:00:00Z</published>
-    <updated>2015-04-23T14:52:28+00:00</updated>
-    <author>
-      <name>Smalruby</name>
-    </author>
-    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾です。&lt;/p&gt;
-
-&lt;p&gt;昨年10月から「コーダー道場 松江:CoderDojo Matsue」を開催しておりますが、このたびイベントの名前を「プログラミング道場:ProgShouDojo」または「Rubyプログラミング少年団のプログラミング道場:ProgShouDojo」に変えることにいたしました（変更理由についてはこの記事の後ろのほうで説明いたします）。&lt;/p&gt;
-
-&lt;p&gt;ご安心ください。変更するのは名前だけです。「プログラミングを体験した子どもたちがステップアップするための &lt;em&gt;無料&lt;/em&gt; のプログラミング教室」であることに変わりありません。これからも「プログラミング道場:ProgShouDojo」をよろしくお願いします m(_ _)m&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section"&gt;名前の変更理由について&lt;/h2&gt;
-
-&lt;p&gt;それでは、少し長いですが、「コーダー道場 松江:CoderDojo Matsue」から「プログラミング道場:ProgShouDojo」に名前を変更する理由を説明します。&lt;/p&gt;
-
-&lt;h3 id="section-1"&gt;●そもそもコーダー道場って何？&lt;/h3&gt;
-
-&lt;p&gt;まずは、コーダー道場:CoderDojoについておさらいです。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://coderdojo.com/"&gt;コーダー道場:CoderDojo（英語）&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://coderdojo.jp/"&gt;コーダー道場ジャパン:CoderDojo Japan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;コーダー道場は7歳から17歳までの子どもたちを対象とし、（無償）ボランティアが指導してくれる、&lt;em&gt;無料&lt;/em&gt; のプログラミング教室、またはそれを運営する組織です。
-2011年にアイルランドで始まり、2014年9月現在では51カ国・526拠点で開催されています。&lt;/p&gt;
-
-&lt;p&gt;コーダー道場では、基本的に指導者と子どもが一対一でやりとりをしてプログラミングを学びます。また、プログラミングの教え方や利用するツール・プログラミング言語には決まりはありません。それぞれのコーダー道場が、自分たちに適したツールやプログラミング言語を選択しています。&lt;/p&gt;
-
-&lt;h3 id="section-2"&gt;●なぜ名前を変えるの？&lt;/h3&gt;
-
-&lt;p&gt;当初、コーダー道場と私たちがやりたいことが一致すると考えて、「コーダー道場 松江:CoderDojo Matsue」を始めました。しかしながら、「無償ボランティアが指導する」という決まりが私たちとは合わないのではないかと考えるようになりました。&lt;/p&gt;
-
-&lt;p&gt;2015年2月現在、私たちは以下のコーダー道場の決まりに則り、コーダー道場 松江を運営しています。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;7歳から17歳までの子どもたちが対象&lt;/li&gt;
-  &lt;li&gt;無償ボランティアが指導&lt;/li&gt;
-  &lt;li&gt;参加費は無料&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;しかしながら、私たちは将来、指導者には（少しばかりではありますが）謝礼や交通費を支払いたいと考えています。&lt;/p&gt;
-
-&lt;p&gt;社会人だけでなく、松江高専などの学生の方にも指導者として参加してほしいと考えています。特に学生の方が参加しやすいように他のアルバイトと同程度の金額の謝礼を支払いたいという想いがあります。&lt;/p&gt;
-
-&lt;p&gt;また、小中学生を相手にするイベントですので、どのような態度で接するべきかといった方針はきちんと共有したいと考えています。謝礼を支払う代わりに、責任感を持って取り組んでいただくように徹底したいと考えております。&lt;/p&gt;
-
-&lt;p&gt;そのため、将来、コーダー道場の決まりである「無償ボランティアが指導」というのを満たせなくなると考えました。&lt;/p&gt;
-
-&lt;p&gt;そこで、私たちの活動を「プログラミング道場」と呼ぶことにしました。&lt;/p&gt;
-
-&lt;h3 id="section-3"&gt;●プログラミング道場のこれから&lt;/h3&gt;
-
-&lt;p&gt;本日から私たちの活動を「プログラミング道場」と呼ぶことにし、ウェブサイトの表記も変更します。
-2月28日(土)以降のイベントの名前も変更します。&lt;/p&gt;
-
-&lt;p&gt;ただし、過去のイベント(10月25日、11月15日、1月10日)については、コーダー道場 松江のままとします。&lt;/p&gt;
-
-&lt;p&gt;今回、変更するのは名前だけです。「プログラミングを体験した子どもたちがステップアップするための &lt;em&gt;無料&lt;/em&gt; のプログラミング教室」であることに変わりありませんので、これからも「プログラミング道場:ProgShouDojo」をよろしくお願いします m(_ _)m&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id="section-4"&gt;プログラミング道場の参加者募集！（指導者も募集中！）&lt;/h2&gt;
-
-&lt;p&gt;「コーダー道場 松江」あらため、「プログラミング道場」では参加者を募集しております。今後の開催予定のご確認や、お申し込みは &lt;a href="http://progshoudojo.doorkeeper.jp/"&gt;http://progshoudojo.doorkeeper.jp/&lt;/a&gt; からお願いします。&lt;/p&gt;
-
-&lt;p&gt;合わせて、「プログラミング道場」にて、私たちと一緒に子どもたちにプログラミングを指導してくださる方を募集しております。現在、指導者が不足しており、子どもたちのやりたい気持ちに対して、十分な対応ができていないと感じています。だれでも指導者になれるというものではないのですが、「子どもたちにプログラミングを教えたい」という気持ちさえあれば、やれることはたくさんあると考えています。&lt;/p&gt;
-
-&lt;p&gt;もし「手伝ってもいいよ」という方がおられましたら、お気軽に &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#115;&amp;#109;&amp;#097;&amp;#108;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#106;&amp;#112;"&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#115;&amp;#109;&amp;#097;&amp;#108;&amp;#114;&amp;#117;&amp;#098;&amp;#121;&amp;#046;&amp;#106;&amp;#112;&lt;/a&gt; までご連絡ください。&lt;/p&gt;
 </content>
   </entry>
 </feed>
