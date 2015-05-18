@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>スモウルボットV3を作る　その３（2つ目のLEDの取り付け〜完成） | Rubyプログラミング少年団</title>
+  <meta name="description" content="Rubyプログラミング少年団の公式Webサイトです。">
+  <meta name="keywords" content="Ruby,Smalruby,スモウルビー,ProgShouDojo,プログラミング道場,松江,まつえ,Matsue,島根,しまね,Shimane,Rubyプログラミング少年団,Rubyプロ少,プロ少,プログラミング,プログラミング体験,ProgShouTrial,ProgShou" />
+  <meta property="og:image" content="/files/blog/smalrubot_v3_assemly_car/IMG_6759.jpg" />
+  <meta property="og:title" content="スモウルボットV3を作る　その３（2つ目のLEDの取り付け〜完成） | Rubyプログラミング少年団" />
+  <meta property="og:url" content="/blog/2013/11/28/smalrubot_v3_assembly_car.html" />
+  <meta property="og:site_name" content="Rubyプログラミング少年団" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="これまでの作業で、
+
+(1) 通信モジュール（電源）とLEDの取り付け
+
+(2) Arduino(アルドゥイーノ)部分の取り付け
+
+が終わりました。
+
+引き続き、
+
+(3) 2つ目のLEDの取り付け
+
+(4) モーター、車輪の取り付け
+
+(5) センサー(フォトリフレクター)の取り付け
+
+を行ってスモウルボットを完成させましょう！
+
+" />
+  <meta content='ja_jp' property='og:locale'>
+  <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="/js/jquery.poptrox.min.js"></script>
+  <script src="/js/skel.min.js"></script>
+  <script src="/js/init.js"></script>
+  
+  <noscript>
+    <link rel="stylesheet" href="/css/skel-noscript.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+  </noscript>
+  <!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
+  <link rel="stylesheet" href="/css/main.css" />
+</head>
+
+  <body>
+    <header id="header">
+
+  <!-- Logo -->
+  <h1 id="logo"><a href="/">Rubyプログラミング少年団</a></h1>
+
+  <!-- Nav -->
+  <nav id="nav">
+    <ul>
+      <li><a href="/blog/">ブログ</a></li>
+      
+      <li><a href="/">トップ</a></li>
+      
+    </ul>
+  </nav>
+
+</header>
+
+
+    <section class="blog">
+      <div class="content container">
+      
+        <h2>
+          <span>2013年11月28日</span><br />
+          <a href="/blog/2013/11/28/smalrubot_v3_assembly_car.html">スモウルボットV3を作る　その３（2つ目のLEDの取り付け〜完成）</a>
+        </h2>
+      
+      <p>これまでの作業で、</p>
+
+<p>(1) 通信モジュール（電源）とLEDの取り付け</p>
+
+<p>(2) Arduino(アルドゥイーノ)部分の取り付け</p>
+
+<p>が終わりました。</p>
+
+<p>引き続き、</p>
+
+<p>(3) 2つ目のLEDの取り付け</p>
+
+<p>(4) モーター、車輪の取り付け</p>
+
+<p>(5) センサー(フォトリフレクター)の取り付け</p>
+
+<p>を行ってスモウルボットを完成させましょう！</p>
+
+<p></p>
+
+<hr>
+
+<h2>(3) 2つ目のLEDの取り付け</h2>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6552.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6551.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6553.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6554.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6555.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6556.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6557.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6558.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6559.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6560.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6561.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6563.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6564.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6565.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6566.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6567.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6568.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6569.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6570.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6571.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6572.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6572__pg.jpg" /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6vHGHbe_9w?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+
+<h2>(4) モーター、車輪の取り付け</h2>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6577.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6578.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6579.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6580.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6581.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6582.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6584.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6585.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6586.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6587.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6588.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6589.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6590.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6591.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6592.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6593.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6594.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6595.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6596.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6597.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6598.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6599.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6600.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6601.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6607.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6608.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6609.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6610.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6611.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6612.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6613.jpg" /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uGCsYcYYgGs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6615.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6616.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6618.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6619.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6620.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6620__pg.jpg" /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_CPz4FnH90?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6623.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6625.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6628.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6629.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6630.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6631.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6636.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6637.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6643.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6644.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6645.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6646.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6647.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6648.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6649.jpg" /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QL2XgsUUg_Q?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6651.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6652.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6653.jpg" /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kaJQ2PVQyDo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6656.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6657.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6658.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6659.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6660.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6661.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6662.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6663.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6664.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6665.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6666.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6667.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6668.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6669.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6670.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6671.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6672.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6673.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6674.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6675.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6676.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6677.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6678.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6679.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6680.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6681.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6682.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6683.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6684.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6685.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6686.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6687.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6688.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6689.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6690.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6691.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6692.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6693.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6695.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6696.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6697.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6698.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6699.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6700.jpg" /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/waLsmNddnFk?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+
+<h2>(5) センサー(フォトリフレクター)の取り付け</h2>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6702.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6708.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6709.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6710.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6711.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6712.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6713.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6714.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6716.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6717.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6718.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6719.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6720.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6721.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6722.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6723.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6724.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6725.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6726.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6727.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6728.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6729.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6730.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6731.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6732.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6733.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6734.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6735.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6736.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6737.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6738.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6739.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6740.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6742.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6743.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6744.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6745.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6746.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6747.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6748.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6749.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6750.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6751.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6752.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6753.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6754.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6755.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6756.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6757.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6758.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6759.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6760.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6760__pg.jpg" /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pCnIvObY6lM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<hr>
+
+<h2>収納</h2>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6769.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6770.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6771.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6763.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6772.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6765.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6766.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6773.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6774.jpg" /></p>
+
+<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6775.jpg" /></p>
+
+      </div>
+    </section>
+
+    <section class="main style3 secondary blog-menu">
+      <div class="content container">
+        <div class="box container small left">
+          <h4>新しい<ruby>記事<rp>（</rp><rt>きじ</rt><rp>）</rp></ruby></h4>
+
+          <ol class="default">
+            
+            <li>
+              <a href="/blog/2015/04/19/trial.html">４月１９日（日）に一日Rubyプログラミング体験 in 松江（揖屋公民館）を開催しました♪</a> <span>2015年04月19日</span>
+            </li>
+            
+            <li>
+              <a href="/blog/2015/04/11/progshoudojo.html">４月１１日（土）に第６回プログラミング道場（島根県松江市）を開催しました♪</a> <span>2015年04月11日</span>
+            </li>
+            
+            <li>
+              <a href="/blog/2015/03/21/progshoudojo.html">３月２１日（土）に第５回プログラミング道場（島根県松江市）を開催しました♪</a> <span>2015年03月21日</span>
+            </li>
+            
+            <li>
+              <a href="/blog/2015/03/15/trial.html">３月１５日（日）に一日Rubyプログラミング体験 in 松江（宍道公民館）を開催しました♪</a> <span>2015年03月15日</span>
+            </li>
+            
+            <li>
+              <a href="/blog/2015/02/28/progshoudojo.html">２月２８日（土）に第４回プログラミング道場（島根県松江市）を開催しました♪</a> <span>2015年02月28日</span>
+            </li>
+            
+            <li>
+              <a href="/blog/2015/02/15/trial.html">２月１５日（日）に一日Rubyプログラミング体験 in 松江（美保関公民館）を開催しました♪</a> <span>2015年02月15日</span>
+            </li>
+            
+            <li>
+              <a href="/blog/2015/02/08/rename-coderdojo-progshoudojo.html">「コーダー道場 松江:CoderDojo Matsue」の名前を「プログラミング道場:ProgShouDojo」に変えます</a> <span>2015年02月08日</span>
+            </li>
+            
+            <li>
+              <a href="/blog/2015/01/18/trial.html">１月１８日（日）に一日Rubyプログラミング体験 in 島根県益田市（島根県立西部高等技術校）を開催しました♪</a> <span>2015年01月18日</span>
+            </li>
+            
+            <li>
+              <a href="/blog/2015/01/17/seminar-for-trial.html">１月１７日（土）に一日Rubyプログラミング体験の指導者向けの講習会（島根県立西部高等技術校）を開催しました♪</a> <span>2015年01月17日</span>
+            </li>
+            
+            <li>
+              <a href="/blog/2015/01/10/coderdojo.html">１月１０日（土）に第３回コーダー道場松江を開催しました♪</a> <span>2015年01月10日</span>
+            </li>
+            
+          </ol>
+
+          <h4>タグ<ruby>一覧<rp>（</rp><rt>いちらん</rt><rp>）</rp></ruby></h4>
+
+          <ol class="default">
+            
+            <li><a href="/blog/tags/howto.html">howto (6)</a></li>
+            
+            <li><a href="/blog/tags/smalrubot_v3.html">smalrubot_v3 (3)</a></li>
+            
+            <li><a href="/blog/tags/event.html">event (20)</a></li>
+            
+            <li><a href="/blog/tags/trial.html">trial (13)</a></li>
+            
+            <li><a href="/blog/tags/progshoutrial.html">ProgShouTrial (13)</a></li>
+            
+            <li><a href="/blog/tags/smalrubot.html">smalrubot (3)</a></li>
+            
+            <li><a href="/blog/tags/progshoudojo.html">ProgShouDojo (7)</a></li>
+            
+            <li><a href="/blog/tags/release.html">release (1)</a></li>
+            
+            <li><a href="/blog/tags/seminar.html">seminar (1)</a></li>
+            
+            <li><a href="/blog/tags/coderdojo.html">coderdojo (4)</a></li>
+            
+          </ol>
+
+          <h4>古い<ruby>記事<rp>（</rp><rt>きじ</rt><rp>）</rp></ruby></h4>
+
+          <ol class="default">
+            
+            <li><a href="/blog/2015.html">2015 (10)</a></li>
+            
+            <li><a href="/blog/2014.html">2014 (12)</a></li>
+            
+            <li><a href="/blog/2013.html">2013 (6)</a></li>
+            
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <footer id="footer">
+
+  <!--
+      Social Icons
+
+      Use anything from here: http://fortawesome.github.io/Font-Awesome/cheatsheet/)
+    -->
+  <ul class="actions">
+    <li><a href="https://twitter.com/smalruby" target="_blank" class="fa solo fa-twitter"><span>Twitter</span></a></li>
+    <li><a href="https://www.facebook.com/smalruby" target="_blank" class="fa solo fa-facebook"><span>Facebook</span></a></li>
+
+  </ul>
+
+  <!-- Menu -->
+  <ul class="menu">
+    <li>&copy; Ruby Programming Shounendan, 2014</li>
+    <li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
+  </ul>
+
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49814248-1', 'smalruby.jp');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
