@@ -74,71 +74,71 @@ Rubyプログラミング少年団で使っている教材「Smalruby：スモ�
 
 <p>今回はその機能を説明しますね♪</p>
 
-<hr />
+<hr>
 
-<h2 id="section">「ハードウェア」ジャンルのブロックが増えました！</h2>
+<h2>「ハードウェア」ジャンルのブロックが増えました！</h2>
 
-<h3 id="section-1">(1)</h3>
+<h3>(1)</h3>
 
 <p>「ハードウェア」ジャンルに、「2WD車を（　）秒[▼進める/バックさせる/左に曲げる/右に曲げる/止める]ブロックを追加しました。</p>
 
-<p><img alt="" src="/files/blog/2014-06-09-release/hardware_2wd_run.png" /></p>
+<p><img src="/files/blog/2014-06-09-release/hardware_2wd_run.png" /></p>
 
 <p>これで、これまで以上に2WD車を使ったプログラムが作りやすくなったと思うよ♪</p>
 
-<hr />
+<hr>
 
-<h2 id="section-2">キャラクターを選ぶ画面の機能を増やしました！</h2>
+<h2>キャラクターを選ぶ画面の機能を増やしました！</h2>
 
-<h3 id="section-3">(2)</h3>
+<h3>(2)</h3>
 
 <p>キャラクターの向きのところに、キャラクターの回転方法を選べるようにしました。</p>
 
 <p>キャラクターの回転方法が、</p>
 
 <ul>
-  <li>「自由に回転」のときは、端（はし）にあたって跳（は）ね返った時などに上下が逆さまになったり、向きを変えるとキャラクターもその向きに合うようになります。</li>
-  <li>「左右のみ」のときは、端（はし）にあたって跳（は）ね返った時などにふり向いたり、向きを変えてもキャラクターは右か、左しか向かないようになります。</li>
-  <li>「回転しない」のときは、端にあたって跳ね返った時も、向きを変えたときも、キャラクターは右しか向かないようになります。</li>
+<li>「自由に回転」のときは、端（はし）にあたって跳（は）ね返った時などに上下が逆さまになったり、向きを変えるとキャラクターもその向きに合うようになります。</li>
+<li>「左右のみ」のときは、端（はし）にあたって跳（は）ね返った時などにふり向いたり、向きを変えてもキャラクターは右か、左しか向かないようになります。</li>
+<li>「回転しない」のときは、端にあたって跳ね返った時も、向きを変えたときも、キャラクターは右しか向かないようになります。</li>
 </ul>
 
-<p><img alt="" src="/files/blog/2014-06-09-release/rotation_style_free.png" /></p>
+<p><img src="/files/blog/2014-06-09-release/rotation_style_free.png" /></p>
 
-<p><img alt="" src="/files/blog/2014-06-09-release/rotation_style_left_right.png" /></p>
+<p><img src="/files/blog/2014-06-09-release/rotation_style_left_right.png" /></p>
 
-<p><img alt="" src="/files/blog/2014-06-09-release/rotation_style_none.png" /></p>
+<p><img src="/files/blog/2014-06-09-release/rotation_style_none.png" /></p>
 
-<h3 id="section-4">(3)</h3>
+<h3>(3)</h3>
 
 <p>選んだキャラクターを表示するところの背景の色を白くしました。これで、黒猫もはっきりとと見えるね♪</p>
 
-<p><img alt="" src="/files/blog/2014-06-09-release/preview_background.png" /></p>
+<p><img src="/files/blog/2014-06-09-release/preview_background.png" /></p>
 
-<hr />
+<hr>
 
-<h2 id="section-5">使いにくい部分を直しました！</h2>
+<h2>使いにくい部分を直しました！</h2>
 
-<h3 id="section-6">(4)</h3>
+<h3>(4)</h3>
 
 <p>これまでは、マウスを使っているときに画面の一部が青くなってしまうことがありましたので、そうならないようにしました。（青くなる現象は文字のところを選択できるから起きていました。そこで文字を選択できないようにしたんだよ♪）</p>
 
-<p><img alt="" src="/files/blog/2014-06-09-release/before_unselectable.png" /></p>
+<p><img src="/files/blog/2014-06-09-release/before_unselectable.png" /></p>
 
-<h3 id="section-7">(5)</h3>
+<h3>(5)</h3>
 
 <p>「アクチュエータ」ジャンルと「センサー」ジャンルを整理しました。合わせて、いまはあまり使われていない「RGB LED」サブジャンルを消しました。</p>
 
 <p>整理する前：
-<img alt="" src="/files/blog/2014-06-09-release/before_hardware.png" /></p>
+<img src="/files/blog/2014-06-09-release/before_hardware.png" /></p>
 
 <p>整理した後：
-<img alt="" src="/files/blog/2014-06-09-release/after_hardware.png" /></p>
+<img src="/files/blog/2014-06-09-release/after_hardware.png" /></p>
 
-<h3 id="section-8">(6)</h3>
+<h3>(6)</h3>
 
 <p>これまでは、キャラクターが隠しているのに、吹き出しが表示されていたり、他のキャラクターに触れてしまっていました。そこで、キャラクターを隠したときは、吹き出しを消して、他のキャラクターにも触れないようにしました。</p>
 
-<h3 id="section-9">(7)</h3>
+<h3>(7)</h3>
 
 <p>スモウルビーを始めようと思ったときに、いつまで待っても始まらないことがありました。これは、少し前にスモウルビーを使ったときにあるファイル（<code>${HOME}/.smalruby-editor/tmp/pids/server.pid</code>）を消していなかったり、前に使ったときとは別のコンピュータを使っていること(<code>${HOME}/.smalruby-editor/config/database.yml</code>のパスが不正)が原因でした。</p>
 
@@ -146,25 +146,24 @@ Rubyプログラミング少年団で使っている教材「Smalruby：スモ�
 
 <p>これで、スモウルビーをきちんと始められるようになったと思うよ♪</p>
 
-<hr />
+<hr>
 
-<h2 id="section-10">おわりに</h2>
+<h2>おわりに</h2>
 
 <p>新しいスモウルビーは、コマンドプロンプトやターミナルで、次のコマンドを実行するとインストールできるよ。ぜひ試してみてね。</p>
 
-<p><code>
-gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
-</code></p>
+<pre><code>gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
+</code></pre>
 
-<hr />
+<hr>
 
-<h2 id="section-11">参考（さんこう）情報</h2>
+<h2>参考（さんこう）情報</h2>
 
 <ul>
-  <li><a href="https://github.com/smalruby/smalruby-editor/">GitHub : smalruby-editorのソースコード(設計書)</a></li>
-  <li><a href="https://github.com/smalruby/smalruby/">GitHub : smalrubyのソースコード(設計書)</a></li>
-  <li><a href="http://rubygems.org/gems/smalruby-editor">RubyGems.org : smalruby-editor</a></li>
-  <li><a href="http://rubygems.org/gems/smalruby">RubyGems.org : smalruby</a></li>
+<li><a href="https://github.com/smalruby/smalruby-editor/">GitHub : smalruby-editorのソースコード(設計書)</a></li>
+<li><a href="https://github.com/smalruby/smalruby/">GitHub : smalrubyのソースコード(設計書)</a></li>
+<li><a href="http://rubygems.org/gems/smalruby-editor">RubyGems.org : smalruby-editor</a></li>
+<li><a href="http://rubygems.org/gems/smalruby">RubyGems.org : smalruby</a></li>
 </ul>
 
       </div>
@@ -229,17 +228,19 @@ gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
             
             <li><a href="/blog/tags/progshoutrial.html">ProgShouTrial (13)</a></li>
             
-            <li><a href="/blog/tags/progshoudojo.html">ProgShouDojo (7)</a></li>
-            
             <li><a href="/blog/tags/coderdojo.html">coderdojo (4)</a></li>
+            
+            <li><a href="/blog/tags/progshoudojo.html">ProgShouDojo (7)</a></li>
             
             <li><a href="/blog/tags/seminar.html">seminar (1)</a></li>
             
             <li><a href="/blog/tags/release.html">release (1)</a></li>
             
-            <li><a href="/blog/tags/howto.html">howto (3)</a></li>
+            <li><a href="/blog/tags/howto.html">howto (4)</a></li>
             
             <li><a href="/blog/tags/smalrubot.html">smalrubot (3)</a></li>
+            
+            <li><a href="/blog/tags/smalrubot_v3.html">smalrubot_v3 (1)</a></li>
             
           </ol>
 
@@ -251,7 +252,7 @@ gem install smalruby-editor -v 0.1.16 --no-ri --no-rdoc
             
             <li><a href="/blog/2014.html">2014 (12)</a></li>
             
-            <li><a href="/blog/2013.html">2013 (3)</a></li>
+            <li><a href="/blog/2013.html">2013 (4)</a></li>
             
           </ol>
         </div>
