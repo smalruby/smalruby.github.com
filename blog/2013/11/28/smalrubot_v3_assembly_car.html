@@ -11,7 +11,7 @@
   <meta property="og:url" content="/blog/2013/11/28/smalrubot_v3_assembly_car.html" />
   <meta property="og:site_name" content="Rubyプログラミング少年団" />
   <meta property="og:type" content="website" />
-  <meta property="og:description" content="これまでの作業で、
+  <meta property="og:description" content="これまでの作業（その１、その２）で、
 
 (1) 通信モジュール（電源）とLEDの取り付け
 
@@ -72,7 +72,7 @@
           <a href="/blog/2013/11/28/smalrubot_v3_assembly_car.html">スモウルボットV3を作る　その３（2つ目のLEDの取り付け〜完成）</a>
         </h2>
       
-      <p>これまでの作業で、</p>
+      <p>これまでの作業（<a href="/blog/2013/11/30/smalrubot_v3_summary.html">その１</a>、<a href="/blog/2013/11/29/smalrubot_v3_assembly_arduino.html">その２</a>）で、</p>
 
 <p>(1) 通信モジュール（電源）とLEDの取り付け</p>
 
@@ -96,47 +96,95 @@
 
 <h2>(3) 2つ目のLEDの取り付け</h2>
 
+<h3>緑色のLEDの取り付け</h3>
+
+<p>緑色に光る2つ目のLEDを取り付けます。1つ目の赤色のLEDと同じように動作を確認しながら取り付けます。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6552.jpg" /></p>
+
+<p>ニッパーと切り離したブレッドボードを使って、LEDのリード線の長い方をブレッドボードの高さと同じにして、短い方をブレッドボードの高さよりも2mm程度短くします。</p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6551.jpg" /></p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6553.jpg" /></p>
 
+<p>カットしたLEDの足が長い方をブレッドボード「aの2」へ、短い方をブレッドボードの「bの3」に挿します。赤色のLEDとは左右対称になっています。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6554.jpg" /></p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6555.jpg" /></p>
 
+<p>次に緑色のジャンパーケーブルを1本使います。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6556.jpg" /></p>
+
+<p>一方をブレッドボードの「＋」に挿します。</p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6557.jpg" /></p>
 
+<p>もう一方をブレッドボードの「eの2」に挿します。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6558.jpg" /></p>
+
+<p>ここでUSBケーブルでコンピュータにつなぐと緑色のLEDが光るはずです。光ることを確認したらコンピュータからUSBケーブルを抜いて、電源を切っておこう。</p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6559.jpg" /></p>
 
+<p>光らない場合は緑色のLEDを挿す方向を間違っている可能性があります。緑色のLEDの足が長い方をブレッドボード「aの2」へ、短い方をブレッドボードの「bの3」に挿していることを確認してください。</p>
+
+<h3>抵抗の取り付け</h3>
+
+<p>ここでも赤色のLEDのときと同じように1kΩの抵抗を取り付けます。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6560.jpg" /></p>
 
+<p>ニッパーと切り離したブレッドボードを使って、写真のようにリード線をカットして曲げます。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6561.jpg" /></p>
+
+<p>それをブレッドボードの「cの2」と「cの5」に挿します。LEDとは違って、抵抗の向きはどちらでもかまいません。</p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6563.jpg" /></p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6564.jpg" /></p>
 
+<h3>動作確認</h3>
+
+<p>動作を確認するために、緑色のジャンパコードの一方（eの2）をブレッドボードから抜きます。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6565.jpg" /></p>
+
+<p>そして、「bの5」に挿します。</p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6566.jpg" /></p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6567.jpg" /></p>
 
+<p>ここでUSBケーブルでコンピュータにつなぐと緑色のLEDが光るはずです。先程よりもずいぶん光が弱くなっているはずです。</p>
+
+<p>光ることを確認したらコンピュータからUSBケーブルを抜いて、電源を切っておこう。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6568.jpg" /></p>
 
-<p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6569.jpg" /></p>
+<h3>スモウルビーからコントロールできるように配線</h3>
+
+<p>動作を確認できたので、スモウルビーからコントロールできるように配線します。</p>
+
+<p>緑色のジャンパコードの一方（＋）をブレッドボードから抜きます。</p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6570.jpg" /></p>
 
+<p>そして、「cの16」に挿します。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6571.jpg" /></p>
 
+<p>これで緑色のLEDに関する配線は完了です。</p>
+
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6572.jpg" /></p>
+
+<h3>動作確認</h3>
+
+<p>スモウルビーを操作して、下のプログラムを作って実行してみましょう。</p>
 
 <p><img src="/files/blog/smalrubot_v3_assemly_car/IMG_6572__pg.jpg" /></p>
 
@@ -546,25 +594,25 @@
 
           <ol class="default">
             
-            <li><a href="/blog/tags/howto.html">howto (6)</a></li>
-            
-            <li><a href="/blog/tags/smalrubot_v3.html">smalrubot_v3 (3)</a></li>
-            
             <li><a href="/blog/tags/event.html">event (20)</a></li>
             
             <li><a href="/blog/tags/trial.html">trial (13)</a></li>
             
             <li><a href="/blog/tags/progshoutrial.html">ProgShouTrial (13)</a></li>
             
-            <li><a href="/blog/tags/smalrubot.html">smalrubot (3)</a></li>
-            
             <li><a href="/blog/tags/progshoudojo.html">ProgShouDojo (7)</a></li>
             
-            <li><a href="/blog/tags/release.html">release (1)</a></li>
+            <li><a href="/blog/tags/coderdojo.html">coderdojo (4)</a></li>
             
             <li><a href="/blog/tags/seminar.html">seminar (1)</a></li>
             
-            <li><a href="/blog/tags/coderdojo.html">coderdojo (4)</a></li>
+            <li><a href="/blog/tags/release.html">release (1)</a></li>
+            
+            <li><a href="/blog/tags/howto.html">howto (6)</a></li>
+            
+            <li><a href="/blog/tags/smalrubot.html">smalrubot (3)</a></li>
+            
+            <li><a href="/blog/tags/smalrubot_v3.html">smalrubot_v3 (3)</a></li>
             
           </ol>
 
