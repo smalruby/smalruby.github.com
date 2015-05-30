@@ -5,16 +5,178 @@
   <id>http://smalruby.jp/blog</id>
   <link href="http://smalruby.jp/blog"/>
   <link href="http://smalruby.jp/blog/blog/feed.xml" rel="self"/>
-  <updated>2015-04-18T15:00:00Z</updated>
+  <updated>2015-05-16T15:00:00Z</updated>
   <author>
     <name>Smalruby</name>
   </author>
+  <entry>
+    <title>５月１７日（日）に一日Rubyプログラミング体験 in 松江（揖屋公民館）を開催しました♪</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2015/05/17/trial.html"/>
+    <id>http://smalruby.jp/blog/2015/05/17/trial.html</id>
+    <published>2015-05-16T15:00:00Z</published>
+    <updated>2015-05-30T08:06:01+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾(たかお)です。&lt;/p&gt;
+
+&lt;p&gt;５月１７日（日）に１４回目となる一日Rubyプログラミング体験 in 松江を島根県松江市の揖屋公民館でやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://one-day-ruby-trial.doorkeeper.jp/events/23984"&gt;https://one-day-ruby-trial.doorkeeper.jp/events/23984&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;今回は、子どもが９人（うち１人は見学）、大人が６人の合計１５人が参加してくれました。また、講師を含めると５人のスタッフで運営しました。みなさん、ありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2665.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6461.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;このイベントで「プログラミングがとってもおもしろかったよ」という人は、ぜひ &lt;a href="http://progshoudojo.doorkeeper.jp/"&gt;プログラミング道場&lt;/a&gt; にも遊びにきてくださいね♪&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;それでは、当日のようすを写真でお伝えしますね♪&lt;/p&gt;
+
+&lt;p&gt;前回に引き続き、島根県松江市東出雲町にある揖屋公民館を利用しました。
+（今回も場所が分からなかった参加者がおられたので、申し訳なかったです...）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6450.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;公民館のよくある会議室にパソコンを準備していきます。といっても、ディスプレイの設置と、電源タップの配線だけです。
+というのも、このイベントではコンピュータの準備（ラズベリーパイ、キーボード、マウスなどの配線）も参加者にしてもらっています。これは、プログラミングだけでなく、コンピュータそのものにも親しんでもらいたいと考えているからです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6449.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;参加される方は受付で渡した名札にお名前を書いてもらいます。大きな字で、なおかつ、講師のみなさんが読めるようにひらがなで書いてもらっています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2513.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;それを参加されたお子さん自身でラミネートして名札として完成させます！
+この名札は、イベント終了後に修了証としてみなさんに渡しています。そして、プログラミング道場などのRubyプログラミング少年団の活動のときに持ってきてもらい、「私は体験を教室を経験しましたよ」という証明として使っています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2514.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;席についたらコンピュータの準備です。親子で協力しあって、ラズベリーパイ、キーボード、マウス、HDMIケーブル、マイクロSDカードを配線して、自分が使うコンピュータを用意します。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2517.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2524.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2536.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;みなさんの準備ができたら、体験教室の開始です。今日の講師はRubyプログラミング少年団　理事の本多さんです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2553.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="/files/one_day_trial_text_20150517.pdf"&gt;教科書&lt;/a&gt; を参考にしつつ、本多さんの話を聞いて、進めていきます。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2563.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;具体的な操作をするときは、全てのお子さんに前へ出てきてもらって、説明するようにしています。そのためにあえてプロジェクターで映す画面の大きさを小さめにしています。&lt;/p&gt;
+
+&lt;p&gt;これまで何度か体験教室をやってきて、コンピュータの前で説明を聞いてもらおうとしても、コンピュータの画面が気になってを聞くことに集中できなかったり、後ろの席の人は講師との距離が離れすぎていて、質問がやりづらいということが分かりました。&lt;/p&gt;
+
+&lt;p&gt;そこで、現在のようなお子さんに前へ出てきてもらうというやり方にしています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2568.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;講師の説明をしっかりと聞いたら、コンピュータを操作してプログラムを作ります。&lt;/p&gt;
+
+&lt;p&gt;はじめてのプログラミングなので難しいところもありますが、親子で楽しみながら取り組んでもらっていました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2569.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2572.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2574.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2576.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2590.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2596.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2604.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2614.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2633.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2634.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;最後に、一人ひとり感想を書いてもらって...&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2647.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2654.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2656.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6461.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;記念撮影でおしまいです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2665.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;今日も楽しいイベントになりました。参加してくれたみんな、ありがとう！&lt;/p&gt;
+
+&lt;p&gt;このイベントで「プログラミングがとってもおもしろかったよ」という人は、ぜひ &lt;a href="http://progshoudojo.doorkeeper.jp/"&gt;プログラミング道場&lt;/a&gt; にも遊びにきてくださいね♪&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;この体験イベントは、毎回同じものです。詳しい内容は &lt;a href="/blog/2014/05/18/trial.html"&gt;５月１８日のレポート＜クリックすると確認できます＞&lt;/a&gt; をみてくださいね♪&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;みんなもプログラミング（Ruby）を体験してみませんか？&lt;/p&gt;
+
+&lt;p&gt;最後まで文章を読んでくれてありがとう！一日プログラミング体験の様子がわかったかな♪&lt;/p&gt;
+
+&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
+
+&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング体験に参加してみませんか？毎月第３日曜日（しまね家庭の日）に行っています。お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
+
+&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;それと、各地域の青少年育成の会や公民館などで本イベントを開催してみませんか？&lt;/p&gt;
+
+&lt;p&gt;子どもたちはプログラミングに興味がありますし、親子を対象としています。各地域で行うイベントとしてもおもしろいのではないかと思います。
+実際、島根県益田市の西部高等技術校さんが開催されたときには、とても楽しいイベントとなり、みなさんに満足いただけたようです♪&lt;/p&gt;
+
+&lt;p&gt;平成２７年度は、松江市の城北公民館・忌部公民館・八雲公民館、それに出雲市での開催をご依頼いただいております。&lt;/p&gt;
+
+&lt;p&gt;日程や予算、スタッフなど、ご希望に合わせて調整いたしますので、お気軽にメール &lt;a href="mailto:contact@smalruby.jp"&gt;contact@smalruby.jp&lt;/a&gt; でお問い合わせください。&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;謝辞&lt;/h2&gt;
+
+&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
+
+&lt;p&gt;会場は島根県松江市の揖屋公民館に提供していただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6450.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;このイベントでは &lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt; で提供されている音楽をBGMとして利用しています。&lt;/p&gt;
+
+&lt;p&gt;Rubyアソシエーションさま、揖屋公民館、魔王魂さま、ありがとうございました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://n-higashiizumo.net/category/kouminkan/kouminkan-iya/"&gt;揖屋公民館&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>４月１９日（日）に一日Rubyプログラミング体験 in 松江（揖屋公民館）を開催しました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2015/04/19/trial.html"/>
     <id>http://smalruby.jp/blog/2015/04/19/trial.html</id>
     <published>2015-04-18T15:00:00Z</published>
-    <updated>2015-05-29T16:40:37+00:00</updated>
+    <updated>2015-05-30T08:06:01+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -148,7 +310,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/04/11/progshoudojo.html"/>
     <id>http://smalruby.jp/blog/2015/04/11/progshoudojo.html</id>
     <published>2015-04-10T15:00:00Z</published>
-    <updated>2015-05-29T16:40:37+00:00</updated>
+    <updated>2015-05-30T08:06:01+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -301,7 +463,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/03/21/progshoudojo.html"/>
     <id>http://smalruby.jp/blog/2015/03/21/progshoudojo.html</id>
     <published>2015-03-20T15:00:00Z</published>
-    <updated>2015-05-29T16:40:37+00:00</updated>
+    <updated>2015-05-30T08:06:01+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -383,7 +545,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/03/15/trial.html"/>
     <id>http://smalruby.jp/blog/2015/03/15/trial.html</id>
     <published>2015-03-14T15:00:00Z</published>
-    <updated>2015-05-29T16:40:37+00:00</updated>
+    <updated>2015-05-30T08:06:01+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -487,7 +649,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/02/28/progshoudojo.html"/>
     <id>http://smalruby.jp/blog/2015/02/28/progshoudojo.html</id>
     <published>2015-02-27T15:00:00Z</published>
-    <updated>2015-05-29T16:40:37+00:00</updated>
+    <updated>2015-05-30T08:06:01+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -565,88 +727,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rabo/open.html"&gt;松江オープンソースラボ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>２月１５日（日）に一日Rubyプログラミング体験 in 松江（美保関公民館）を開催しました♪</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2015/02/15/trial.html"/>
-    <id>http://smalruby.jp/blog/2015/02/15/trial.html</id>
-    <published>2015-02-14T15:00:00Z</published>
-    <updated>2015-05-29T16:40:37+00:00</updated>
-    <author>
-      <name>Smalruby</name>
-    </author>
-    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾(たかお)です。&lt;/p&gt;
-
-&lt;p&gt;２月１５日（日）に１１回目となる一日Rubyプログラミング体験 in 松江を島根県松江市の美保関公民館でやりました。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://one-day-ruby-trial.doorkeeper.jp/events/19463"&gt;https://one-day-ruby-trial.doorkeeper.jp/events/19463&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;今回は、子どもが２人、大人が２人の合計４人が参加してくれました。ありがとうございました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-02-15-trial/IMG_5394.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;このイベントで「プログラミングがとってもおもしろかったよ」という人は、ぜひ &lt;a href="http://progshoudojo.doorkeeper.jp/"&gt;プログラミング道場&lt;/a&gt; にも遊びにきてくださいね♪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;それでは、当日のようすを写真でお伝えしますね♪&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-02-15-trial/IMG_5320.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-02-15-trial/IMG_5332.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-02-15-trial/IMG_5349.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-02-15-trial/IMG_5362.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-02-15-trial/IMG_5371.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-02-15-trial/IMG_5381.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-02-15-trial/IMG_5394.JPG" /&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;この体験イベントは、毎回同じものです。詳しい内容は &lt;a href="/blog/2014/05/18/trial.html"&gt;５月１８日のレポート＜クリックすると確認できます＞&lt;/a&gt; をみてくださいね♪&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;みんなも体験してみませんか？&lt;/p&gt;
-
-&lt;p&gt;最後まで文章を読んでくれてありがとう！一日プログラミング体験の様子がわかったかな♪&lt;/p&gt;
-
-&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
-
-&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング体験に参加してみませんか？毎月第３日曜日（しまね家庭の日）に行っています。お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
-
-&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;それと、各地域の青少年育成の会や公民館などで本イベントを開催してみませんか？&lt;/p&gt;
-
-&lt;p&gt;子どもたちはプログラミングに興味がありますし、親子を対象としています。各地域で行うイベントとしてもおもしろいのではないかと思います。
-実際、島根県益田市の西部高等技術校さんが開催されたときには、とても楽しいイベントとなり、みなさんに満足いただけたようです♪&lt;/p&gt;
-
-&lt;p&gt;メール &lt;a href="mailto:contact@smalruby.jp"&gt;contact@smalruby.jp&lt;/a&gt; にてお気軽にお問い合わせください。&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2&gt;謝辞&lt;/h2&gt;
-
-&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
-
-&lt;p&gt;会場は島根県松江市の美保関公民館に提供していただきました。&lt;/p&gt;
-
-&lt;p&gt;Rubyアソシエーション、美保関公民館、ありがとうございました&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://matsue-city-kouminkan.jp/mihonoseki/"&gt;美保関公民館&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
