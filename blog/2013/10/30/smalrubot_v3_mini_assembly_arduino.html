@@ -3,31 +3,27 @@
   <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <title>スモウルボットV3を作る　その２（組み立て開始〜Arduino部分の取り付け） | Rubyプログラミング少年団</title>
+  <title>スモウルボットV3ミニを作る　その２（組み立て開始〜Arduino部分の取り付け） | Rubyプログラミング少年団</title>
   <meta name="description" content="Rubyプログラミング少年団の公式Webサイトです。">
   <meta name="keywords" content="Ruby,Smalruby,スモウルビー,ProgShouDojo,プログラミング道場,松江,まつえ,Matsue,島根,しまね,Shimane,Rubyプログラミング少年団,Rubyプロ少,プロ少,プログラミング,プログラミング体験,ProgShouTrial,ProgShou" />
   <meta property="og:image" content="/files/blog/smalrubot_v3_assemly_aruduino/IMG_6547.jpg" />
-  <meta property="og:title" content="スモウルボットV3を作る　その２（組み立て開始〜Arduino部分の取り付け） | Rubyプログラミング少年団" />
-  <meta property="og:url" content="/blog/2013/11/29/smalrubot_v3_assembly_arduino.html" />
+  <meta property="og:title" content="スモウルボットV3ミニを作る　その２（組み立て開始〜Arduino部分の取り付け） | Rubyプログラミング少年団" />
+  <meta property="og:url" content="/blog/2013/10/30/smalrubot_v3_mini_assembly_arduino.html" />
   <meta property="og:site_name" content="Rubyプログラミング少年団" />
   <meta property="og:type" content="website" />
   <meta property="og:description" content="これまでの作業（その１）で、必要な道具の用意とキットの内容を確認できました。
 
-スモウルボットV3は、おおまかに次のような流れで組み立てます。組み立ての時間は、2時間程度を想定しています。
+スモウルボットV3ミニは、おおまかに次のような流れで組み立てます。組み立ての時間は、1時間20分程度を想定しています。
 
 (1) 通信モジュール（電源）とLEDの取り付け
 
 (2) Arduino(アルドゥイーノ)部分の取り付け
 
-(3) 2つ目のLEDの取り付け
-
-(4) モーター、車輪の取り付け
-
-(5) センサー(フォトリフレクター)の取り付け
+(3) マイコン制御LEDの取り付け
 
 このページでは、(1)と(2)を行います。
 
-それでは、さっそくスモウルボットV3を組み立てていきましょう。
+それでは、さっそくスモウルボットV3ミニを組み立てていきましょう。
 
 " />
   <meta content='ja_jp' property='og:locale'>
@@ -68,31 +64,27 @@
       <div class="content container">
       
         <h2>
-          <span>2013年11月29日</span><br />
-          <a href="/blog/2013/11/29/smalrubot_v3_assembly_arduino.html">スモウルボットV3を作る　その２（組み立て開始〜Arduino部分の取り付け）</a>
+          <span>2013年10月30日</span><br />
+          <a href="/blog/2013/10/30/smalrubot_v3_mini_assembly_arduino.html">スモウルボットV3ミニを作る　その２（組み立て開始〜Arduino部分の取り付け）</a>
         </h2>
       
-      <p>これまでの作業（<a href="/blog/2013/11/30/smalrubot_v3_summary.html">その１</a>）で、必要な道具の用意とキットの内容を確認できました。</p>
+      <p>これまでの作業（<a href="/blog/2013/10/31/smalrubot_v3_mini_summary.html">その１</a>）で、必要な道具の用意とキットの内容を確認できました。</p>
 
-<p>スモウルボットV3は、おおまかに次のような流れで組み立てます。組み立ての時間は、2時間程度を想定しています。</p>
+<p>スモウルボットV3ミニは、おおまかに次のような流れで組み立てます。組み立ての時間は、1時間20分程度を想定しています。</p>
 
 <p>(1) 通信モジュール（電源）とLEDの取り付け</p>
 
 <p>(2) Arduino(アルドゥイーノ)部分の取り付け</p>
 
-<p>(3) 2つ目のLEDの取り付け</p>
-
-<p>(4) モーター、車輪の取り付け</p>
-
-<p>(5) センサー(フォトリフレクター)の取り付け</p>
+<p>(3) マイコン制御LEDの取り付け</p>
 
 <p>このページでは、(1)と(2)を行います。</p>
 
-<p>それでは、さっそくスモウルボットV3を組み立てていきましょう。</p>
+<p>それでは、さっそくスモウルボットV3ミニを組み立てていきましょう。</p>
 
 <p></p>
 
-<p>（<a href="/blog/2013/11/30/smalrubot_v3_summary.html">その１はこちらです</a>）</p>
+<p>（<a href="/blog/2013/10/31/smalrubot_v3_mini_summary.html">その１はこちらです</a>）</p>
 
 <hr>
 
@@ -548,7 +540,7 @@
 
 <p>下の動画のようにコンピュータとUSBケーブルを接続すると、その瞬間にLEDがピカっと一瞬光ります。もし光らない場合は配線に間違いがある可能性があります。ここまでの手順を見なおしてみてください。また、一瞬ではなく点滅を繰り返す場合はICに問題がありますので、お手数ですがICの入手元にご連絡ください。</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jgZTVtX-E9E?rel=0" frameborder="0" allowfullscreen></iframe>
+<p><a href="https://youtu.be/k4YiEXwCF4Q" target="_blank">動画を別のタブで開く(YouTubeを閲覧できる場合)</a></p>
 
 <h3>リセットスイッチ用抵抗の取り付け</h3>
 
@@ -632,7 +624,7 @@
 
 <p>USBケーブルをコンピュータに接続して、リセットスイッチを何度か押してみてください。下の動画のようにリセットスイッチを押す度にLEDがぴかっと一瞬光るはずです。</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sHSwBb4E9eU?rel=0" frameborder="0" allowfullscreen></iframe>
+<p><a href="https://youtu.be/sHSwBb4E9eU" target="_blank">動画を別のタブで開く(YouTubeを閲覧できる場合)</a></p>
 
 <h3>信号とICの配線</h3>
 
@@ -684,13 +676,13 @@
 
 <p>USBケーブルとコンピュータを接続して、スモウルビーの実行ボタンを押します。すると、下の動画のように1秒間隔でLEDが点いたり、消えたりを繰り返すはずです。</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k4YiEXwCF4Q?rel=0" frameborder="0" allowfullscreen></iframe>
+<p><a href="https://youtu.be/k4YiEXwCF4Q" target="_blank">動画を別のタブで開く(YouTubeを閲覧できる場合)</a></p>
 
 <p>これでスモウルボットのArduino部分の完成です！</p>
 
 <h2>つづく...</h2>
 
-<p><a href="/blog/2013/11/28/smalrubot_v3_assembly_car.html">その３</a>に続きます。</p>
+<p>その３は準備中です...</p>
 
       </div>
     </section>
