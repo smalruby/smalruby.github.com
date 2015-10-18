@@ -5,16 +5,79 @@
   <id>http://smalruby.jp/blog</id>
   <link href="http://smalruby.jp/blog"/>
   <link href="http://smalruby.jp/blog/blog/feed.xml" rel="self"/>
-  <updated>2015-09-26T15:00:00Z</updated>
+  <updated>2015-10-17T15:00:00Z</updated>
   <author>
     <name>Smalruby</name>
   </author>
+  <entry>
+    <title>１０月１８日（日）に一日Rubyプログラミング体験 in 松江（秋鹿公民館）を開催しました♪</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2015/10/18/progshoutrial.html"/>
+    <id>http://smalruby.jp/blog/2015/10/18/progshoutrial.html</id>
+    <published>2015-10-17T15:00:00Z</published>
+    <updated>2015-10-18T23:23:00+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾(たかお)です。&lt;/p&gt;
+
+&lt;p&gt;１０月１８日（日）に１９回目となる一日Rubyプログラミング体験 in 松江を島根県松江市の秋鹿公民館でやりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://one-day-ruby-trial.doorkeeper.jp/events/31143"&gt;https://one-day-ruby-trial.doorkeeper.jp/events/31143&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;今回は、子どもが４人（うち１人は見学）、大人が３人の合計７人が参加してくれました。また、講師を含めると５人のスタッフで運営しました。みなさん、ありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-10-18-progshoutrial/board.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;このイベントで「プログラミングがとってもおもしろかったよ」という人は、ぜひ &lt;a href="http://progshoudojo.doorkeeper.jp/"&gt;プログラミング道場&lt;/a&gt; にも遊びにきてくださいね♪&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;このイベントの詳しい内容は &lt;a href="/blog/2014/05/18/trial.html"&gt;５月１８日のレポート＜クリックすると確認できます＞&lt;/a&gt; をみてください♪&lt;/p&gt;
+
+&lt;p&gt;一日プログラミング体験は毎月第３日曜日（しまね家庭の日）におこなっています。お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
+
+&lt;p&gt;きみと会えるのを楽しみにしてます♪&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;それと、各地域の青少年育成の会や公民館などで本イベントを開催してみませんか？&lt;/p&gt;
+
+&lt;p&gt;子どもたちはプログラミングに興味がありますし、親子を対象としています。各地域で行うイベントとしてもおもしろいのではないかと思います。
+実際、島根県益田市の西部高等技術校さんが開催されたときには、とても楽しいイベントとなり、みなさんに満足いただけたようです♪&lt;/p&gt;
+
+&lt;p&gt;平成２７年度は、松江市の城北公民館・忌部公民館・八雲公民館、出雲市、鳥取県での開催をご依頼いただいております。&lt;/p&gt;
+
+&lt;p&gt;日程や予算、スタッフなど、ご希望に合わせて調整いたしますので、お気軽にメール &lt;a href="mailto:contact@smalruby.jp"&gt;contact@smalruby.jp&lt;/a&gt; でお問い合わせください。&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;謝辞&lt;/h2&gt;
+
+&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
+
+&lt;p&gt;会場は島根県松江市の秋鹿公民館に提供していただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/files/blog/2015-10-18-progshoutrial/place.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;このイベントでは &lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt; で提供されている音楽をBGMとして利用しています。&lt;/p&gt;
+
+&lt;p&gt;Rubyアソシエーションさま、秋鹿公民館、魔王魂さま、ありがとうございました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://matsue-city-kouminkan.jp/aika/"&gt;秋鹿公民館&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>９月２７日（日）に一日Rubyプログラミング体験 in 松江（八束公民館）を開催しました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2015/09/27/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/09/27/progshoutrial.html</id>
     <published>2015-09-26T15:00:00Z</published>
-    <updated>2015-09-27T08:32:31+00:00</updated>
+    <updated>2015-10-18T23:23:00+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -77,7 +140,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/08/23/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/08/23/progshoutrial.html</id>
     <published>2015-08-22T15:00:00Z</published>
-    <updated>2015-09-27T08:32:31+00:00</updated>
+    <updated>2015-10-18T23:23:00+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -138,7 +201,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/07/19/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/07/19/progshoutrial.html</id>
     <published>2015-07-18T15:00:00Z</published>
-    <updated>2015-09-27T08:32:31+00:00</updated>
+    <updated>2015-10-18T23:23:00+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -199,7 +262,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/06/21/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/06/21/progshoutrial.html</id>
     <published>2015-06-20T15:00:00Z</published>
-    <updated>2015-09-27T08:32:31+00:00</updated>
+    <updated>2015-10-18T23:23:00+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -260,7 +323,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/05/17/trial.html"/>
     <id>http://smalruby.jp/blog/2015/05/17/trial.html</id>
     <published>2015-05-16T15:00:00Z</published>
-    <updated>2015-09-27T08:32:31+00:00</updated>
+    <updated>2015-10-18T23:23:00+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -413,155 +476,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://n-higashiizumo.net/category/kouminkan/kouminkan-iya/"&gt;揖屋公民館&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>５月１６日（土）に第７回プログラミング道場（島根県松江市）を開催しました♪</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2015/05/16/progshoudojo.html"/>
-    <id>http://smalruby.jp/blog/2015/05/16/progshoudojo.html</id>
-    <published>2015-05-15T15:00:00Z</published>
-    <updated>2015-09-27T08:32:31+00:00</updated>
-    <author>
-      <name>Smalruby</name>
-    </author>
-    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾(たかお)です。&lt;/p&gt;
-
-&lt;p&gt;５月１６日（土）の１０：００ー１１：３０と１３：３０ー１６：３０に、７回目となるプログラミング道場を松江オープンソースラボでやりました。&lt;/p&gt;
-
-&lt;p&gt;プログラミング道場は、プログラミングを体験した子どもたちがステップアップするための無料のプログラミング教室で、みんながやりたい・作りたいと思ったことをわたしたちRubyプログラミング少年団がサポートしています。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://progshoudojo.doorkeeper.jp/events/21636"&gt;【午前】プログラミング道場&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://progshoudojo.doorkeeper.jp/events/21637"&gt;【午後】プログラミング道場&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;今回は午前の部に１人、午後の部に６人が参加してくれました。今回も島根大学の学生を中心に８人のスタッフで運営しました。みなさん、ありがとうございました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6334.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6337.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6343.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6448.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;今回も午後の部は定員に達してしまいましたので、参加を希望される方は早めに&lt;a href="https://progshoudojo.doorkeeper.jp"&gt;お申込み&lt;/a&gt;いただいたほうがいいかもしれませんね♪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;今回のテーマは、「ブロック崩し」でした。ブロックが動いたり、跳ね返った時の動作が変わっていたり、いろいろなブロック崩しをつくっていました。&lt;/p&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0BpXIPmjsoQ?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;それでは、当日の様子を写真でお伝えします。&lt;/p&gt;
-
-&lt;p&gt;午前の部&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6340.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6322.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6323.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;午後の部&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8592.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8594.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8595.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8597.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8598.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8599.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8600.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8601.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8602.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8603.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8604.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8606.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8609.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8610.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8611.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8612.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8613.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8615.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8616.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8617.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8618.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8619.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8620.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8622.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8625.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8629.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6334.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8632.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/CIMG8641.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6337.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6343.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-16-progshoudojo/IMG_6448.jpg" /&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;みんなも参加してみませんか？&lt;/p&gt;
-
-&lt;p&gt;最後まで文章を読んでくれてありがとう！プログラミング道場の様子がわかったかな♪&lt;/p&gt;
-
-&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
-
-&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみもプログラミング道場に参加してみませんか？お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
-
-&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2&gt;謝辞&lt;/h2&gt;
-
-&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
-
-&lt;p&gt;会場の松江オープンソースラボは、&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9"&gt;オープンソースソフトウェア&lt;/a&gt;に関する会議や打合せや研修の場として、松江市が無料で開放しています。&lt;/p&gt;
-
-&lt;p&gt;このイベントでは &lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt; で提供されている音楽をBGMとして利用しています。&lt;/p&gt;
-
-&lt;p&gt;Rubyアソシエーションさま、松江市、ありがとうございました m(_ _)m&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www1.city.matsue.shimane.jp/sangyoushinkou/ruby/rubycity/rabo/open.html"&gt;松江オープンソースラボ&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
