@@ -5,16 +5,158 @@
   <id>http://smalruby.jp/blog</id>
   <link href="http://smalruby.jp/blog"/>
   <link href="http://smalruby.jp/blog/blog/feed.xml" rel="self"/>
-  <updated>2015-10-17T15:00:00+00:00</updated>
+  <updated>2017-01-13T15:00:00+00:00</updated>
   <author>
     <name>Smalruby</name>
   </author>
+  <entry>
+    <title>新しいスモウルビー(smalruby-editor 0.4.1、smalruby 0.1.11)を公開しました！</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released.html"/>
+    <id>http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released.html</id>
+    <published>2017-01-13T15:00:00+00:00</published>
+    <updated>2017-01-23T07:39:55+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;みなさん、こんにちは！
+NPO法人Rubyプログラミング少年団の高尾です。&lt;/p&gt;
+
+&lt;p&gt;本法人で利用している教材「スモウルビー」の新しいバージョン(smalruby-editor 0.4.1とsmalruby 0.1.11)を公開しました。
+脆弱性JVN#50197114(CVE-2017-2096)の対応を含んでいますので、すみやかに最新のスモウルビーをインストールしてください。&lt;/p&gt;
+
+&lt;p&gt;新しいスモウルビーは、コマンドプロンプトやターミナルで、次のコマンドを実行するとインストールできます。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class="shell"&gt;gem install smalruby -v 0.1.11
+gem install smalruby-editor -v 0.4.1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Windowsを使っている人は、&lt;a href="https://github.com/smalruby/smalruby-installer-for-windows/wiki"&gt;こちらの手順&lt;/a&gt;を参考にして、最新のインストーラを使って、新しいスモウルビーをインストールすることもできます。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;それぞれのソフトウェアについて、変更したところを説明します。&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;smalruby-editor 0.4.1&lt;/h2&gt;
+
+&lt;p&gt;smalruby-editorは、&lt;a href="https://scratch.mit.edu"&gt;Scratch&lt;/a&gt;のように命令ブロックを組み合わせて、プログラムを作成するためのビジュアルプログラミングエディタです。命令ブロックからRubyのプログラム、また、Rubyのプログラムから命令ブロックに変換できることが特徴の一つです。&lt;/p&gt;
+
+&lt;p&gt;新しいバージョンの0.4.1では次のことを実現しました。&lt;/p&gt;
+
+&lt;h3&gt;脆弱性JVN#50197114(CVE-2017-2096)に対応&lt;/h3&gt;
+
+&lt;p&gt;smalruby-editor 0.4.0以前には、ログインID、またはプログラム名を細工することで、遠隔の第三者によって、smalruby-editorが動作するコンピュータ上で、任意のOSコマンドを実行される可能性がありました。この問題に対するJVN識別番号とCVE識別番号は、それぞれJVN#50197114とCVE-2017-2096です。&lt;/p&gt;
+
+&lt;p&gt;この問題には、smalruby-editor 0.4.1 で対応しました。&lt;/p&gt;
+
+&lt;p&gt;修正内容は &lt;a href="https://github.com/smalruby/smalruby-editor/commit/5b5e7f2ec3808152c772197e0c4143fb507290d5"&gt;https://github.com/smalruby/smalruby-editor/commit/5b5e7f2ec3808152c772197e0c4143fb507290d5&lt;/a&gt; から確認できます。&lt;/p&gt;
+
+&lt;h3&gt;ログインIDとプログラム名に空白を含めることができるように修正&lt;/h3&gt;
+
+&lt;p&gt;ログインIDとプログラム名に空白を含むことができるようになりました。&lt;/p&gt;
+
+&lt;p&gt;これまでは、「高尾 宏治」のようなログインIDや、「game program.rb」のようなプログラム名を指定すると、実行ボタンを押しても、プログラムを実行できませんでした。&lt;/p&gt;
+
+&lt;h3&gt;スモウルビーを起動したコンピュータのみ、スモウルビーを操作できるように修正&lt;/h3&gt;
+
+&lt;p&gt;run-smalruby.batやsmalruby-editorコマンドでスモウルビーを起動した場合に、スモウルビーを起動したコンピュータ(IPアドレスが127.0.0.1のもの)からのみ操作できるようにしました。&lt;/p&gt;
+
+&lt;p&gt;以前と同じように、別のコンピュータからもスモウルビーを操作できるようにする場合は、run-smalruby.batの一番下の行を次のように修正したり、smalruby-editorにコマンドラインオプション「--binding=0.0.0.0」を指定して起動してください。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class="dos"&gt;@start smalruby-editor --binding=0.0.0.0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;命令ブロック「♣キーボードの (キー) が (押された|押され続けている) のとき」を「♣キーボードの (キー) が (押された|押され続けている) とき」に変更&lt;/h3&gt;
+
+&lt;p&gt;イベントジャンルの命令ブロック「♣キーボードの (キー) が (押された|押され続けている) のとき」の表現が日本語として間違っていたため、「♣キーボードの (キー) が (押された|押され続けている) とき」に修正しました。&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;smalruby 0.1.11&lt;/h2&gt;
+
+&lt;p&gt;smalrubyは、&lt;a href="https://scratch.mit.edu"&gt;Scratch&lt;/a&gt;の命令ブロックの処理をRubyで実現したものです。例えば「10歩動かす」という命令ブロックを、「move(10)」というRubyの命令として表現できるようにします。&lt;/p&gt;
+
+&lt;p&gt;新しいバージョンの0.1.11では次のことを実現しました。&lt;/p&gt;
+
+&lt;h3&gt;Windowsでスモウルビーのプログラムの実行直後からキーボードで操作できるように修正&lt;/h3&gt;
+
+&lt;p&gt;Windowsにおいて、スモウルビーで作成したプログラムを実行後、表示されたウインドウをクリックしないとキーボードの操作を受け付けない問題を修正しました。これからは、プログラムを実行するたびにウインドウをクリックする必要はありません。&lt;/p&gt;
+
+&lt;h3&gt;キャラクターの大きさが元に戻る不具合の修正&lt;/h3&gt;
+
+&lt;p&gt;キャラクターの大きさ(Character#scale)を変更したあとで、キャラクターの向きを変えると、キャラクターの大きさが元の大きさに戻ってしまう不具合を修正しました。&lt;/p&gt;
+
+&lt;h3&gt;いくつかの命令ブロックに対応するRubyの処理を追加&lt;/h3&gt;
+
+&lt;p&gt;次の命令ブロックに対応するRubyの処理を追加しました。ただし、残念ながら、まだ命令ブロックは追加していません。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;音ジャンル
+
+&lt;ul&gt;
+&lt;li&gt;音量を(　)%にする: &lt;code&gt;Character#volume=&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ペンジャンル
+
+&lt;ul&gt;
+&lt;li&gt;消す: &lt;code&gt;Character#clear&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;ペンの色を(　)にする、ペンの色を(　)ずつ変える: &lt;code&gt;Character#pen_color=&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;ペンの濃さを(　)にする、ペンの濃さを(　)ずつ変える: &lt;code&gt;Character#pen_shade=&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;参考（さんこう）情報&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby-editor/"&gt;GitHub : smalruby-editorのソースコード(設計書)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby/"&gt;GitHub : smalrubyのソースコード(設計書)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby-editor"&gt;RubyGems.org : smalruby-editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby"&gt;RubyGems.org : smalruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>[English] New Smalruby (smalruby-editor 0.4.1, smalruby 0.1.11) has been Released!</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released-english.html"/>
+    <id>http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released-english.html</id>
+    <published>2017-01-13T15:00:00+00:00</published>
+    <updated>2017-01-23T07:39:55+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;New Smalruby (smalruby-editor 0.4.1, smalruby 0.1.11) has been Released!&lt;/p&gt;
+
+&lt;p&gt;These contain the following important security fixes, and it is recommended that users upgrade as soon as possible:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CVE-2017-2096 (JVN#50197114): OS command injection vulnerability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Upgrade commands:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class="shell"&gt;gem install smalruby -v 0.1.11
+gem install smalruby-editor -v 0.4.1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;URLs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby-editor/"&gt;GitHub : smalruby-editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby/"&gt;GitHub : smalruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby-editor"&gt;RubyGems.org : smalruby-editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby"&gt;RubyGems.org : smalruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>１０月１８日（日）に一日Rubyプログラミング体験 in 松江（秋鹿公民館）を開催しました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2015/10/18/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/10/18/progshoutrial.html</id>
     <published>2015-10-17T15:00:00+00:00</published>
-    <updated>2016-12-22T00:28:40+00:00</updated>
+    <updated>2017-01-23T07:39:55+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -77,7 +219,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/09/27/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/09/27/progshoutrial.html</id>
     <published>2015-09-26T15:00:00+00:00</published>
-    <updated>2016-12-22T00:28:40+00:00</updated>
+    <updated>2017-01-23T07:39:55+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -140,7 +282,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/08/23/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/08/23/progshoutrial.html</id>
     <published>2015-08-22T15:00:00+00:00</published>
-    <updated>2016-12-22T00:28:40+00:00</updated>
+    <updated>2017-01-23T07:39:55+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -201,7 +343,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2015/07/19/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/07/19/progshoutrial.html</id>
     <published>2015-07-18T15:00:00+00:00</published>
-    <updated>2016-12-22T00:28:40+00:00</updated>
+    <updated>2017-01-23T07:39:55+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -253,229 +395,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://matsue-city-kouminkan.jp/hokki/"&gt;法吉公民館&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>６月２１日（日）に一日Rubyプログラミング体験 in 松江（城北公民館）を開催しました♪</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2015/06/21/progshoutrial.html"/>
-    <id>http://smalruby.jp/blog/2015/06/21/progshoutrial.html</id>
-    <published>2015-06-20T15:00:00+00:00</published>
-    <updated>2016-12-22T00:28:40+00:00</updated>
-    <author>
-      <name>Smalruby</name>
-    </author>
-    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾(たかお)です。&lt;/p&gt;
-
-&lt;p&gt;６月２１日（日）に１５回目となる一日Rubyプログラミング体験 in 松江を島根県松江市の城北公民館でやりました。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://one-day-ruby-trial.doorkeeper.jp/events/25704"&gt;https://one-day-ruby-trial.doorkeeper.jp/events/25704&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;今回は、城北公民館運営協議会主催のイベントとして無料で開催いたしました。参加者は、子どもが７人、大人が６人の合計１３人が参加してくれました。また、講師を含めると５人のスタッフで運営しました。みなさん、ありがとうございました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-06-21-progshoutrial/board.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;このイベントで「プログラミングがとってもおもしろかったよ」という人は、ぜひ &lt;a href="http://progshoudojo.doorkeeper.jp/"&gt;プログラミング道場&lt;/a&gt; にも遊びにきてくださいね♪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;このイベントの詳しい内容は &lt;a href="/blog/2014/05/18/trial.html"&gt;５月１８日のレポート＜クリックすると確認できます＞&lt;/a&gt; をみてください♪&lt;/p&gt;
-
-&lt;p&gt;一日プログラミング体験は毎月第３日曜日（しまね家庭の日）におこなっています。お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
-
-&lt;p&gt;きみと会えるのを楽しみにしてます♪&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;それと、各地域の青少年育成の会や公民館などで本イベントを開催してみませんか？&lt;/p&gt;
-
-&lt;p&gt;子どもたちはプログラミングに興味がありますし、親子を対象としています。各地域で行うイベントとしてもおもしろいのではないかと思います。
-実際、島根県益田市の西部高等技術校さんが開催されたときには、とても楽しいイベントとなり、みなさんに満足いただけたようです♪&lt;/p&gt;
-
-&lt;p&gt;平成２７年度は、松江市の城北公民館・忌部公民館・八雲公民館、それに出雲市での開催をご依頼いただいております。&lt;/p&gt;
-
-&lt;p&gt;日程や予算、スタッフなど、ご希望に合わせて調整いたしますので、お気軽にメール &lt;a href="mailto:contact@smalruby.jp"&gt;contact@smalruby.jp&lt;/a&gt; でお問い合わせください。&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2&gt;謝辞&lt;/h2&gt;
-
-&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
-
-&lt;p&gt;会場は島根県松江市の城北公民館に提供していただきました。&lt;/p&gt;
-
-&lt;p&gt;このイベントでは &lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt; で提供されている音楽をBGMとして利用しています。&lt;/p&gt;
-
-&lt;p&gt;Rubyアソシエーションさま、城北公民館、魔王魂さま、ありがとうございました。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://m-jyouhoku-hearn.jp/"&gt;城北公民館&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>５月１７日（日）に一日Rubyプログラミング体験 in 松江（揖屋公民館）を開催しました♪</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2015/05/17/trial.html"/>
-    <id>http://smalruby.jp/blog/2015/05/17/trial.html</id>
-    <published>2015-05-16T15:00:00+00:00</published>
-    <updated>2016-12-22T00:28:40+00:00</updated>
-    <author>
-      <name>Smalruby</name>
-    </author>
-    <content type="html">&lt;p&gt;みなさんこんにちは、Rubyプログラミング少年団の高尾(たかお)です。&lt;/p&gt;
-
-&lt;p&gt;５月１７日（日）に１４回目となる一日Rubyプログラミング体験 in 松江を島根県松江市の揖屋公民館でやりました。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://one-day-ruby-trial.doorkeeper.jp/events/23984"&gt;https://one-day-ruby-trial.doorkeeper.jp/events/23984&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;今回は、子どもが９人（うち１人は見学）、大人が６人の合計１５人が参加してくれました。また、講師を含めると５人のスタッフで運営しました。みなさん、ありがとうございました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2665.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6461.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;このイベントで「プログラミングがとってもおもしろかったよ」という人は、ぜひ &lt;a href="http://progshoudojo.doorkeeper.jp/"&gt;プログラミング道場&lt;/a&gt; にも遊びにきてくださいね♪&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;それでは、当日のようすを写真でお伝えしますね♪&lt;/p&gt;
-
-&lt;p&gt;前回に引き続き、島根県松江市東出雲町にある揖屋公民館を利用しました。
-（今回も場所が分からなかった参加者がおられたので、申し訳なかったです...）&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6450.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;公民館のよくある会議室にパソコンを準備していきます。といっても、ディスプレイの設置と、電源タップの配線だけです。
-というのも、このイベントではコンピュータの準備（ラズベリーパイ、キーボード、マウスなどの配線）も参加者にしてもらっています。これは、プログラミングだけでなく、コンピュータそのものにも親しんでもらいたいと考えているからです。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6449.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;参加される方は受付で渡した名札にお名前を書いてもらいます。大きな字で、なおかつ、講師のみなさんが読めるようにひらがなで書いてもらっています。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2513.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;それを参加されたお子さん自身でラミネートして名札として完成させます！
-この名札は、イベント終了後に修了証としてみなさんに渡しています。そして、プログラミング道場などのRubyプログラミング少年団の活動のときに持ってきてもらい、「私は体験を教室を経験しましたよ」という証明として使っています。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2514.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;席についたらコンピュータの準備です。親子で協力しあって、ラズベリーパイ、キーボード、マウス、HDMIケーブル、マイクロSDカードを配線して、自分が使うコンピュータを用意します。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2517.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2524.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2536.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;みなさんの準備ができたら、体験教室の開始です。今日の講師はRubyプログラミング少年団　理事の本多さんです。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2553.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="/files/one_day_trial_text_20150517.pdf"&gt;教科書&lt;/a&gt; を参考にしつつ、本多さんの話を聞いて、進めていきます。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2563.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;具体的な操作をするときは、全てのお子さんに前へ出てきてもらって、説明するようにしています。そのためにあえてプロジェクターで映す画面の大きさを小さめにしています。&lt;/p&gt;
-
-&lt;p&gt;これまで何度か体験教室をやってきて、コンピュータの前で説明を聞いてもらおうとしても、コンピュータの画面が気になってを聞くことに集中できなかったり、後ろの席の人は講師との距離が離れすぎていて、質問がやりづらいということが分かりました。&lt;/p&gt;
-
-&lt;p&gt;そこで、現在のようなお子さんに前へ出てきてもらうというやり方にしています。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2568.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;講師の説明をしっかりと聞いたら、コンピュータを操作してプログラムを作ります。&lt;/p&gt;
-
-&lt;p&gt;はじめてのプログラミングなので難しいところもありますが、親子で楽しみながら取り組んでもらっていました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2569.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2572.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2574.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2576.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2590.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2596.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2604.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2614.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2633.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2634.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;最後に、一人ひとり感想を書いてもらって...&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2647.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2654.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2656.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6461.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;記念撮影でおしまいです。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_2665.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;今日も楽しいイベントになりました。参加してくれたみんな、ありがとう！&lt;/p&gt;
-
-&lt;p&gt;このイベントで「プログラミングがとってもおもしろかったよ」という人は、ぜひ &lt;a href="http://progshoudojo.doorkeeper.jp/"&gt;プログラミング道場&lt;/a&gt; にも遊びにきてくださいね♪&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;この体験イベントは、毎回同じものです。詳しい内容は &lt;a href="/blog/2014/05/18/trial.html"&gt;５月１８日のレポート＜クリックすると確認できます＞&lt;/a&gt; をみてくださいね♪&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;みんなもプログラミング（Ruby）を体験してみませんか？&lt;/p&gt;
-
-&lt;p&gt;最後まで文章を読んでくれてありがとう！一日プログラミング体験の様子がわかったかな♪&lt;/p&gt;
-
-&lt;p&gt;どうだった？おもしろそうかな？？？&lt;/p&gt;
-
-&lt;p&gt;もし、「おもしろそうだな～」って思ったなら、きみも一日プログラミング体験に参加してみませんか？毎月第３日曜日（しまね家庭の日）に行っています。お父さんやお母さんに相談して、 &lt;a href="http://smalruby.jp"&gt;http://smalruby.jp&lt;/a&gt; から申し込んでみよう！&lt;/p&gt;
-
-&lt;p&gt;きみと会えるのを楽しみにしてます。それじゃあね～♪&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;それと、各地域の青少年育成の会や公民館などで本イベントを開催してみませんか？&lt;/p&gt;
-
-&lt;p&gt;子どもたちはプログラミングに興味がありますし、親子を対象としています。各地域で行うイベントとしてもおもしろいのではないかと思います。
-実際、島根県益田市の西部高等技術校さんが開催されたときには、とても楽しいイベントとなり、みなさんに満足いただけたようです♪&lt;/p&gt;
-
-&lt;p&gt;平成２７年度は、松江市の城北公民館・忌部公民館・八雲公民館、それに出雲市での開催をご依頼いただいております。&lt;/p&gt;
-
-&lt;p&gt;日程や予算、スタッフなど、ご希望に合わせて調整いたしますので、お気軽にメール &lt;a href="mailto:contact@smalruby.jp"&gt;contact@smalruby.jp&lt;/a&gt; でお問い合わせください。&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2&gt;謝辞&lt;/h2&gt;
-
-&lt;p&gt;キーボードを使うことが難しかったり、英語がまだわからない子どもたちでもプログラミングができるようにするためのソフトウェア：スモウルビーは、Rubyアソシエーションに助けてもらって作りました。&lt;/p&gt;
-
-&lt;p&gt;会場は島根県松江市の揖屋公民館に提供していただきました。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="/files/blog/2015-05-17-trial/IMG_6450.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;このイベントでは &lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt; で提供されている音楽をBGMとして利用しています。&lt;/p&gt;
-
-&lt;p&gt;Rubyアソシエーションさま、揖屋公民館、魔王魂さま、ありがとうございました。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.ruby.or.jp/ja/"&gt;Rubyアソシエーション&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://n-higashiizumo.net/category/kouminkan/kouminkan-iya/"&gt;揖屋公民館&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://maoudamashii.jokersounds.com/"&gt;フリー音楽素材/魔王魂&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
