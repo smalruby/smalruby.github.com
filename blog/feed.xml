@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released.html"/>
     <id>http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released.html</id>
     <published>2017-01-13T15:00:00+00:00</published>
-    <updated>2017-01-23T07:39:55+00:00</updated>
+    <updated>2017-01-24T08:13:27+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -22,7 +22,7 @@
 NPO法人Rubyプログラミング少年団の高尾です。&lt;/p&gt;
 
 &lt;p&gt;本法人で利用している教材「スモウルビー」の新しいバージョン(smalruby-editor 0.4.1とsmalruby 0.1.11)を公開しました。
-脆弱性JVN#50197114(CVE-2017-2096)の対応を含んでいますので、すみやかに最新のスモウルビーをインストールしてください。&lt;/p&gt;
+脆弱性&lt;a href="https://jvn.jp/jp/JVN50197114/"&gt;JVN#50197114&lt;/a&gt;(&lt;a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-2096"&gt;CVE-2017-2096&lt;/a&gt;)の対応を含んでいますので、すみやかに最新のスモウルビーをインストールしてください。&lt;/p&gt;
 
 &lt;p&gt;新しいスモウルビーは、コマンドプロンプトやターミナルで、次のコマンドを実行するとインストールできます。&lt;/p&gt;
 
@@ -46,7 +46,7 @@ gem install smalruby-editor -v 0.4.1
 
 &lt;h3&gt;脆弱性JVN#50197114(CVE-2017-2096)に対応&lt;/h3&gt;
 
-&lt;p&gt;smalruby-editor 0.4.0以前には、ログインID、またはプログラム名を細工することで、遠隔の第三者によって、smalruby-editorが動作するコンピュータ上で、任意のOSコマンドを実行される可能性がありました。この問題に対するJVN識別番号とCVE識別番号は、それぞれJVN#50197114とCVE-2017-2096です。&lt;/p&gt;
+&lt;p&gt;smalruby-editor 0.4.0以前には、ログインID、またはプログラム名を細工することで、遠隔の第三者によって、smalruby-editorが動作するコンピュータ上で、任意のOSコマンドを実行される可能性がありました。この問題に対するJVN識別番号とCVE識別番号は、それぞれ&lt;a href="https://jvn.jp/jp/JVN50197114/"&gt;JVN#50197114&lt;/a&gt;と&lt;a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-2096"&gt;CVE-2017-2096&lt;/a&gt;です。&lt;/p&gt;
 
 &lt;p&gt;この問題には、smalruby-editor 0.4.1 で対応しました。&lt;/p&gt;
 
@@ -108,13 +108,23 @@ gem install smalruby-editor -v 0.4.1
 
 &lt;hr&gt;
 
-&lt;h2&gt;参考（さんこう）情報&lt;/h2&gt;
+&lt;h2&gt;参考情報&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://jvn.jp/jp/JVN50197114/"&gt;JVN#50197114&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-2096"&gt;CVE-2017-2096&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby-editor/"&gt;GitHub : smalruby-editorのソースコード(設計書)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby/"&gt;GitHub : smalrubyのソースコード(設計書)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby-editor"&gt;RubyGems.org : smalruby-editor&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby"&gt;RubyGems.org : smalruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;このページの更新履歴&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2017-01-24: JVN#50197114の公表に伴い、JVN#50197114とCVE-2017-2096へのリンクを追加。&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
@@ -123,7 +133,7 @@ gem install smalruby-editor -v 0.4.1
     <link rel="alternate" href="http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released-english.html"/>
     <id>http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released-english.html</id>
     <published>2017-01-13T15:00:00+00:00</published>
-    <updated>2017-01-23T07:39:55+00:00</updated>
+    <updated>2017-01-24T08:13:27+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -156,7 +166,7 @@ gem install smalruby-editor -v 0.4.1
     <link rel="alternate" href="http://smalruby.jp/blog/2015/10/18/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/10/18/progshoutrial.html</id>
     <published>2015-10-17T15:00:00+00:00</published>
-    <updated>2017-01-23T07:39:55+00:00</updated>
+    <updated>2017-01-24T08:13:27+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -219,7 +229,7 @@ gem install smalruby-editor -v 0.4.1
     <link rel="alternate" href="http://smalruby.jp/blog/2015/09/27/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/09/27/progshoutrial.html</id>
     <published>2015-09-26T15:00:00+00:00</published>
-    <updated>2017-01-23T07:39:55+00:00</updated>
+    <updated>2017-01-24T08:13:27+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -282,7 +292,7 @@ gem install smalruby-editor -v 0.4.1
     <link rel="alternate" href="http://smalruby.jp/blog/2015/08/23/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/08/23/progshoutrial.html</id>
     <published>2015-08-22T15:00:00+00:00</published>
-    <updated>2017-01-23T07:39:55+00:00</updated>
+    <updated>2017-01-24T08:13:27+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -343,7 +353,7 @@ gem install smalruby-editor -v 0.4.1
     <link rel="alternate" href="http://smalruby.jp/blog/2015/07/19/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/07/19/progshoutrial.html</id>
     <published>2015-07-18T15:00:00+00:00</published>
-    <updated>2017-01-23T07:39:55+00:00</updated>
+    <updated>2017-01-24T08:13:27+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>

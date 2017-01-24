@@ -70,7 +70,7 @@ Windowsを使っている人は、こちらの手順を参考にして、最新�
 NPO法人Rubyプログラミング少年団の高尾です。</p>
 
 <p>本法人で利用している教材「スモウルビー」の新しいバージョン(smalruby-editor 0.4.1とsmalruby 0.1.11)を公開しました。
-脆弱性JVN#50197114(CVE-2017-2096)の対応を含んでいますので、すみやかに最新のスモウルビーをインストールしてください。</p>
+脆弱性<a href="https://jvn.jp/jp/JVN50197114/">JVN#50197114</a>(<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-2096">CVE-2017-2096</a>)の対応を含んでいますので、すみやかに最新のスモウルビーをインストールしてください。</p>
 
 <p>新しいスモウルビーは、コマンドプロンプトやターミナルで、次のコマンドを実行するとインストールできます。</p>
 
@@ -94,7 +94,7 @@ gem install smalruby-editor -v 0.4.1
 
 <h3>脆弱性JVN#50197114(CVE-2017-2096)に対応</h3>
 
-<p>smalruby-editor 0.4.0以前には、ログインID、またはプログラム名を細工することで、遠隔の第三者によって、smalruby-editorが動作するコンピュータ上で、任意のOSコマンドを実行される可能性がありました。この問題に対するJVN識別番号とCVE識別番号は、それぞれJVN#50197114とCVE-2017-2096です。</p>
+<p>smalruby-editor 0.4.0以前には、ログインID、またはプログラム名を細工することで、遠隔の第三者によって、smalruby-editorが動作するコンピュータ上で、任意のOSコマンドを実行される可能性がありました。この問題に対するJVN識別番号とCVE識別番号は、それぞれ<a href="https://jvn.jp/jp/JVN50197114/">JVN#50197114</a>と<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-2096">CVE-2017-2096</a>です。</p>
 
 <p>この問題には、smalruby-editor 0.4.1 で対応しました。</p>
 
@@ -156,13 +156,23 @@ gem install smalruby-editor -v 0.4.1
 
 <hr>
 
-<h2>参考（さんこう）情報</h2>
+<h2>参考情報</h2>
 
 <ul>
+<li><a href="https://jvn.jp/jp/JVN50197114/">JVN#50197114</a></li>
+<li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-2096">CVE-2017-2096</a></li>
 <li><a href="https://github.com/smalruby/smalruby-editor/">GitHub : smalruby-editorのソースコード(設計書)</a></li>
 <li><a href="https://github.com/smalruby/smalruby/">GitHub : smalrubyのソースコード(設計書)</a></li>
 <li><a href="http://rubygems.org/gems/smalruby-editor">RubyGems.org : smalruby-editor</a></li>
 <li><a href="http://rubygems.org/gems/smalruby">RubyGems.org : smalruby</a></li>
+</ul>
+
+<hr>
+
+<h2>このページの更新履歴</h2>
+
+<ul>
+<li>2017-01-24: JVN#50197114の公表に伴い、JVN#50197114とCVE-2017-2096へのリンクを追加。</li>
 </ul>
 
       </div>
