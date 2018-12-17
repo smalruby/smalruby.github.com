@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://smalruby.jp/blog/2017/02/10/cancel-progshoudojo.html"/>
     <id>http://smalruby.jp/blog/2017/02/10/cancel-progshoudojo.html</id>
     <published>2017-02-09T15:00:00+00:00</published>
-    <updated>2018-11-24T04:58:27+00:00</updated>
+    <updated>2018-12-17T06:43:30+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -40,44 +40,11 @@ NPO法人Rubyプログラミング少年団の高尾です。&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>[English] New Smalruby (smalruby-editor 0.4.1, smalruby 0.1.11) has been Released!</title>
-    <link rel="alternate" href="http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released-english.html"/>
-    <id>http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released-english.html</id>
-    <published>2017-01-13T15:00:00+00:00</published>
-    <updated>2018-11-24T04:58:27+00:00</updated>
-    <author>
-      <name>Smalruby</name>
-    </author>
-    <content type="html">&lt;p&gt;New Smalruby (smalruby-editor 0.4.1, smalruby 0.1.11) has been Released!&lt;/p&gt;
-
-&lt;p&gt;These contain the following important security fixes, and it is recommended that users upgrade as soon as possible:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CVE-2017-2096 (JVN#50197114): OS command injection vulnerability&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Upgrade commands:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class="shell"&gt;gem install smalruby -v 0.1.11
-gem install smalruby-editor -v 0.4.1
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;URLs:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby-editor/"&gt;GitHub : smalruby-editor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby/"&gt;GitHub : smalruby&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby-editor"&gt;RubyGems.org : smalruby-editor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby"&gt;RubyGems.org : smalruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
     <title>新しいスモウルビー(smalruby-editor 0.4.1、smalruby 0.1.11)を公開しました！</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released.html"/>
     <id>http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released.html</id>
     <published>2017-01-13T15:00:00+00:00</published>
-    <updated>2018-11-24T04:58:27+00:00</updated>
+    <updated>2018-12-17T06:43:30+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -192,11 +159,44 @@ gem install smalruby-editor -v 0.4.1
 </content>
   </entry>
   <entry>
+    <title>[English] New Smalruby (smalruby-editor 0.4.1, smalruby 0.1.11) has been Released!</title>
+    <link rel="alternate" href="http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released-english.html"/>
+    <id>http://smalruby.jp/blog/2017/01/14/smalruby-editor-0-4-1-has-been-released-english.html</id>
+    <published>2017-01-13T15:00:00+00:00</published>
+    <updated>2018-12-17T06:43:30+00:00</updated>
+    <author>
+      <name>Smalruby</name>
+    </author>
+    <content type="html">&lt;p&gt;New Smalruby (smalruby-editor 0.4.1, smalruby 0.1.11) has been Released!&lt;/p&gt;
+
+&lt;p&gt;These contain the following important security fixes, and it is recommended that users upgrade as soon as possible:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CVE-2017-2096 (JVN#50197114): OS command injection vulnerability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Upgrade commands:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class="shell"&gt;gem install smalruby -v 0.1.11
+gem install smalruby-editor -v 0.4.1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;URLs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby-editor/"&gt;GitHub : smalruby-editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/smalruby/smalruby/"&gt;GitHub : smalruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby-editor"&gt;RubyGems.org : smalruby-editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rubygems.org/gems/smalruby"&gt;RubyGems.org : smalruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
     <title>１０月１８日（日）に一日Rubyプログラミング体験 in 松江（秋鹿公民館）を開催しました♪</title>
     <link rel="alternate" href="http://smalruby.jp/blog/2015/10/18/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/10/18/progshoutrial.html</id>
     <published>2015-10-17T15:00:00+00:00</published>
-    <updated>2018-11-24T04:58:27+00:00</updated>
+    <updated>2018-12-17T06:43:30+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -259,7 +259,7 @@ gem install smalruby-editor -v 0.4.1
     <link rel="alternate" href="http://smalruby.jp/blog/2015/09/27/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/09/27/progshoutrial.html</id>
     <published>2015-09-26T15:00:00+00:00</published>
-    <updated>2018-11-24T04:58:27+00:00</updated>
+    <updated>2018-12-17T06:43:30+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
@@ -322,7 +322,7 @@ gem install smalruby-editor -v 0.4.1
     <link rel="alternate" href="http://smalruby.jp/blog/2015/08/23/progshoutrial.html"/>
     <id>http://smalruby.jp/blog/2015/08/23/progshoutrial.html</id>
     <published>2015-08-22T15:00:00+00:00</published>
-    <updated>2018-11-24T04:58:27+00:00</updated>
+    <updated>2018-12-17T06:43:30+00:00</updated>
     <author>
       <name>Smalruby</name>
     </author>
